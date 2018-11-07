@@ -1,0 +1,31 @@
+libmktlib-2.0 (2.3.0) stable; urgency=medium
+
+  * fix SQLite connection for MktModel objects 
+  * more performance - switch to journal mod "MEMORY"
+  
+ -- sascha.smolkov <asmolkov@lar.com>  Tue, 06 Apr 2018 13:51:00 +0100
+
+libmktlib-2.0 (2.2.3) test; urgency=medium
+
+  * new mktlib version per Hand definiert: Test version
+  * new error 2107 dilution sample fail (gelbe Fehler).
+  * Einige 'g_messege' entfernt.
+  
+ -- sascha.smolkov <asmolkov@lar.com>  Tue, 23 Aug 2016 13:51:00 +0100
+ 
+libmktlib-2.0 (2.2.0) UNRELEASED; urgency=medium
+
+  * New mktlib version per Hand definiert: Test version
+
+ -- sascha smolkov <asmolkov@lar.com>  Wed, 28 Jan 2015 16:24:16 +0100
+libmktlib-2.0 (2.1.8) UNRELEASED; urgency=medium
+
+  * New mktlib version per Hand definiert: Test version
+
+ -- sascha smolkov <asmolkov@lar.com>  Wed, 28 Jan 2015 16:24:16 +0100
+
+libmktlib-2.0 (2.1.5) unstable; urgency=low
+
+  * Initial Release.
+
+ -- sascha smolkov <asmolkov@lar.com>  Mon, 19 Jan 2015 11:01:24 +0100

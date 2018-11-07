@@ -1,0 +1,58 @@
+# Automatically added by dh_makeshlibs
+if [ "$1" = "configure" ]; then
+	ldconfig
+fi
+
+#Create database files. 
+mkdir -m 777 -p /usr/share/tera/db
+
+if id -u lar > /dev/null 2>&1; then
+	chgrp -R lar /usr/share/tera
+	chown -R lar /usr/share/tera
+fi
+
+#sqlite3 /usr/share/tera/db/device.database .databases
+#sqlite3 /usr/share/tera/db/device-default.database .databases
+#sqlite3 /usr/share/tera/db/device-calibration.database .databases
+#sqlite3 /usr/share/tera/db/device-parameter.database .databases
+#sqlite3 /usr/share/tera/db/device-sensor.database .databases
+##Check Measurement data base 
+#sqlite3 /usr/share/tera/db/device-measurement.database "SELECT COUNT(measurement_process) FROM MktMeasurementData;"
+#RC=$?
+#echo $RC
+#if [ $RC != 0 ]; then 
+#echo "Copy data base"
+#sqlite3 /usr/share/tera/db/device-measurement.database \
+# "BEGIN TRANSACTION; \
+# CREATE TABLE MktMeasurementData_backup \
+# ('ref_id' INTEGER PRIMARY KEY AUTOINCREMENT,\
+# 'measurement_art' TEXT,\
+# 'measurement_changed' DOUBLE,\
+# 'measurement_channel' INTEGER,\
+# 'measurement_cv' DOUBLE,\
+# 'measurement_name' TEXT,\
+# 'measurement_number' INTUNSIGNED,\
+# 'measurement_outlier' TINYINT,\
+# 'measurement_replicate' INTUNSIGNED,\
+# 'measurement_signal' INTUNSIGNED,\
+# 'measurement_trigger' INTUNSIGNED,\
+# 'measurement_type' INTEGER,\
+# 'measurement_unit' TEXT,\
+# 'measurement_value' DOUBLE,\
+# 'measurement_value_row' DOUBLE,\
+# 'measurement_process' INTEGER DEFAULT 1,\
+# 'measurement_stream' INTEGER DEFAULT 1, \
+# 'test' INTEGER DEFAULT 1); \
+# INSERT INTO MktMeasurementData_backup (ref_id, measurement_art, measurement_changed, measurement_channel, measurement_cv, measurement_name, measurement_number, measurement_outlier, measurement_replicate, measurement_signal, measurement_trigger, measurement_type, measurement_unit, measurement_value, measurement_value_row) \
+# SELECT ref_id, measurement_art, measurement_changed, measurement_channel, measurement_cv, measurement_name, measurement_number, measurement_outlier, measurement_replicate, measurement_signal, measurement_trigger, measurement_type, measurement_unit, measurement_value, measurement_value_row FROM MktMeasurementData; \
+# DROP TABLE MktMeasurementData; \
+# ALTER TABLE MktMeasurementData_backup RENAME TO MktMeasurementData; \
+#COMMIT;"
+#fi
+#
+#sqlite3 /usr/share/tera/db/device-process.database .databases
+#sqlite3 /usr/share/tera/db/device-process.database .databases
+#sqlite3 /usr/share/tera/db/device-special-parameter.database .databases
+#chmod -R 777 /usr/share/tera/db
+
+# End automatically added section

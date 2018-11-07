@@ -1,0 +1,18 @@
+This is the README file for the mktlibrary distribution.
+
+  Copyright  2014 LAR Process Analysers AG - All rights reserved.
+
+  
+Create dpkg package:
+   * $./configure
+   * $dch --newversion=4.0.0.$(sh -c "svnversion|tr -d 'M\n'| sed -e 's/.*://'") "Summary of another change": Add a changelog entry to the current version of the package. 
+   * $dpkg-buildpackage -B  -nc
+  
+  
+Entwicklungs automake. 
+  
+  Dateien löschen:
+     
+     * sudo rm -R autom4te.cache/
+     * rm build-stamp
+     * rm config.log

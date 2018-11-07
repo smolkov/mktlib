@@ -1,0 +1,2646 @@
+2016-07-06 13:48  asmolkov
+
+	* [r17142] src/mkt-model.c:
+
+2016-07-06 13:04  asmolkov
+
+	* [r17140] src/mkt-category-model.c, src/mkt-category.c,
+	  src/mkt-category.h:
+
+2016-07-06 11:58  asmolkov
+
+	* [r17139] src/mkt-model.c:
+
+2016-07-06 11:37  asmolkov
+
+	* [r17137] src/mkt-model.c, src/mkt-model.h:
+
+2016-07-06 11:21  asmolkov
+
+	* [r17136] src/mkt-model.c, src/mkt-param-object.c,
+	  src/mkt-param.c:
+
+2016-07-05 14:26  asmolkov
+
+	* [r17124] src/mkt-calibration.c, src/mkt-model.c:
+
+2016-07-05 13:15  asmolkov
+
+	* [r17119] src/mkt-calibration.c:
+
+2016-07-05 12:52  asmolkov
+
+	* [r17116] src/mkt-calibration.c, src/mkt-calibration.h:
+
+2016-07-05 11:02  asmolkov
+
+	* [r17113] src/mkt-calibration-model.c, src/mkt-calibration.c,
+	  src/mkt-calibration.h:
+
+2016-07-05 09:49  asmolkov
+
+	* [r17112] src/mkt-calibration.c:
+
+2016-07-05 07:53  asmolkov
+
+	* [r17106] src/ultimate-messparm.c:
+
+2016-07-05 07:27  asmolkov
+
+	* [r17105] src/mkt-cal-point.c, src/mkt-point-model.c:
+
+2016-07-04 13:54  asmolkov
+
+	* [r17098] src/mkt-calibration.c:
+
+2016-07-04 12:58  asmolkov
+
+	* [r17097] src/mkt-calibration.c, src/mkt-calibration.h:
+
+2016-07-04 12:54  asmolkov
+
+	* [r17096] src/mkt-cal-data-model.c, src/mkt-cal-data.c,
+	  src/mkt-cal-data.h, src/mkt-cal-point-model.c,
+	  src/mkt-cal-point.c, src/mkt-cal-point.h, src/mkt-calibration.c,
+	  src/mkt-calibration.h:
+
+2016-06-30 10:01  asmolkov
+
+	* [r17065] src/mkt-paramdouble.c, src/mkt-paramdouble.h:
+
+2016-06-29 13:18  asmolkov
+
+	* [r17053] src/mkt-category-model.c, src/mkt-category.c:
+
+2016-06-29 08:43  asmolkov
+
+	* [r17035] src/mktlib.c:
+
+2016-06-28 12:53  asmolkov
+
+	* [r17012] src/mkt-SQLite-connection.c, src/mkt-model.c,
+	  src/mktlib.c:
+
+2016-06-28 12:22  asmolkov
+
+	* [r17006] src/mkt-model.c, src/mkt-paramboolean-model.c,
+	  src/mkt-paramdouble-model.c, src/mkt-point-model.c,
+	  src/mkt-sql-parser.c:
+
+2016-06-27 12:55  asmolkov
+
+	* [r16983] src/mkt-calibration-model.c, src/mkt-calibration.c,
+	  src/mkt-calibration.h:
+
+2016-06-27 08:51  asmolkov
+
+	* [r16974] src/mkt-calibration.c:
+
+2016-06-24 14:23  asmolkov
+
+	* [r16969] src/mkt-cal-point.c:
+
+2016-06-24 14:18  asmolkov
+
+	* [r16968] src/mkt-calibration.c:
+
+2016-06-24 14:08  asmolkov
+
+	* [r16965] src/mkt-calibration.c:
+
+2016-06-23 11:32  asmolkov
+
+	* [r16949] src/Makefile.am, src/mkt-SQLite-connection.c,
+	  src/mkt-cal-data-model.c, src/mkt-cal-data.c, src/mkt-cal-data.h,
+	  src/mkt-cal-point-model.c, src/mkt-cal-point.c,
+	  src/mkt-cal-point.h, src/mkt-calibration-model.c,
+	  src/mkt-calibration.c, src/mkt-calibration.h,
+	  src/mkt-channel-model.c, src/mkt-channel.c, src/mkt-param.c,
+	  src/mkt-param.h, src/mkt-point-model.c, src/mkt-point-model.h,
+	  src/mkt-point.c, src/mkt-point.h, src/mkt-value.c,
+	  src/mkt-value.h, src/mktlib.c, src/mktlib.h: : Fix MktModel
+	  
+	  Task-Url:
+
+2016-06-14 11:53  asmolkov
+
+	* [r16942] src/mkt-process-model.c, src/mkt-process.c,
+	  src/mkt-process.h, src/mkt-value.c, src/mkt-value.h:
+
+2016-06-09 09:19  asmolkov
+
+	* [r16932] src/mkt-SQLite-connection.c:
+
+2016-06-07 09:06  asmolkov
+
+	* [r16909] src/mkt-process.c, src/mkt-process.h:
+
+2016-06-07 08:49  asmolkov
+
+	* [r16907] src/mkt-SQLite-connection.c:
+
+2016-06-07 08:46  asmolkov
+
+	* [r16906] src/mkt-cal-model.c, src/mkt-cal.c, src/mkt-cal.h:
+
+2016-06-02 09:17  asmolkov
+
+	* [r16881] src/mkt-SQLite-connection.c:
+
+2016-06-02 09:00  asmolkov
+
+	* [r16879] src/mkt-SQLite-connection.c:
+
+2016-06-01 15:41  asmolkov
+
+	* [r16869] src/mkt-process-model.c, src/mkt-process.c:
+
+2016-06-01 15:15  asmolkov
+
+	* [r16868] src/mkt-SQLite-connection.c, src/mkt-model.c:
+
+2016-06-01 11:30  asmolkov
+
+	* [r16861] src/mkt-measurement.c, src/mkt-process.c:
+
+2016-06-01 11:17  asmolkov
+
+	* [r16858] src/mkt-SQLite-connection.c, src/mkt-measurement.c,
+	  src/mkt-process.c:
+
+2016-06-01 09:56  asmolkov
+
+	* [r16855] src/mkt-measurement-data.c, src/mkt-measurement.c,
+	  src/mkt-measurement.h:
+
+2016-06-01 09:29  asmolkov
+
+	* [r16853] src/mkt-process-model.c, src/mkt-process.c,
+	  src/mkt-process.h:
+
+2016-05-30 11:40  asmolkov
+
+	* [r16843] src/mkt-SQLite-connection.c, src/mkt-measurement-data.c,
+	  src/mkt-measurement.c, src/mkt-model.c:
+
+2016-05-27 14:01  asmolkov
+
+	* [r16841] src/mkt-SQLite-connection.c,
+	  src/mkt-SQLite-connection.h, src/mkt-data-column.c,
+	  src/mkt-data-column.h, src/mkt-data-model.c, src/mkt-model.c:
+
+2016-05-24 07:52  asmolkov
+
+	* [r16832] src/mkt-model.c:
+
+2016-05-23 14:23  asmolkov
+
+	* [r16830] src/mkt-process.h:
+
+2016-05-23 14:20  asmolkov
+
+	* [r16829] src/mkt-process.c, src/mkt-process.h:
+
+2016-05-23 14:02  asmolkov
+
+	* [r16828] debian/libmktlib-2.0.postinst,
+	  src/mkt-measurement-data.c, src/mkt-measurement.c,
+	  src/mkt-measurement.h:
+
+2016-05-23 09:17  asmolkov
+
+	* [r16824] src/market-time.h:
+
+2016-05-23 07:36  asmolkov
+
+	* [r16814] src/market-time.c, src/market-time.h:
+
+2016-05-20 07:40  asmolkov
+
+	* [r16810] src/mktlib.c:
+
+2016-05-19 13:35  asmolkov
+
+	* [r16802] src/mkt-process.c:
+
+2016-05-19 13:20  asmolkov
+
+	* [r16800] src/market-time.c:
+
+2016-05-19 13:16  asmolkov
+
+	* [r16799] src/market-time.c, src/market-time.h:
+
+2016-05-19 09:38  asmolkov
+
+	* [r16796] src/mktlib.c:
+
+2016-05-18 08:56  asmolkov
+
+	* [r16793] po/mktlib.mo, po/mktlib.po:
+
+2016-05-18 08:56  asmolkov
+
+	* [r16792] po/mktlib.pot:
+
+2016-05-17 13:28  asmolkov
+
+	* [r16787] src/market-time.c:
+
+2016-05-12 08:01  asmolkov
+
+	* [r16778] src/mkt-model.c:
+
+2016-05-09 12:15  asmolkov
+
+	* [r16709] src/mkt-analog.c, src/mkt-relay.c:
+
+2016-05-03 12:40  gstuetzer
+
+	* [r16665] src/stringFuncs.c: Die Funktion 'doubleStr' war für
+	  negative Zahlen nicht korrekt.
+
+2016-04-28 14:02  asmolkov
+
+	* [r16572] src/mkt-boolexp-parser.c:
+
+2016-04-22 13:26  asmolkov
+
+	* [r16526] src/mkt-value.c, src/mkt-value.h:
+
+2016-04-22 13:08  asmolkov
+
+	* [r16524] src/mkt-log.h:
+
+2016-04-21 14:35  asmolkov
+
+	* [r16506] src/mkt-value.c:
+
+2016-04-21 09:44  asmolkov
+
+	* [r16497] src/mkt-process.c:
+
+2016-04-21 08:52  asmolkov
+
+	* [r16491] src/mkt-process.c:
+
+2016-04-21 08:50  asmolkov
+
+	* [r16490] src/mkt-process.c, src/mkt-process.h:
+
+2016-04-20 09:34  asmolkov
+
+	* [r16486] src/mkt-process.h:
+
+2016-04-18 08:23  asmolkov
+
+	* [r16469] src/mkt-cal-point.c:
+
+2016-04-15 11:29  asmolkov
+
+	* [r16454] src/mkt-axis.c, src/mkt-cal-data.c, src/mkt-cal-point.c,
+	  src/mkt-cal.c, src/mkt-calibration.c, src/mkt-category.c,
+	  src/mkt-channel.c, src/mkt-injection.c, src/mkt-limit.c,
+	  src/mkt-paramboolean.c, src/mkt-paramdouble.c,
+	  src/mkt-paramint32.c, src/mkt-process.c, src/mkt-selection.c,
+	  src/mkt-statistic.c, src/mkt-status.c, src/mkt-stream.c,
+	  src/mkt-user.c, src/mktlib.c, src/ultimate-integration.c,
+	  src/ultimate-messparm.c, src/ultimate-posparm.c:
+
+2016-04-15 09:33  asmolkov
+
+	* [r16452] debian/control:
+
+2016-04-14 11:24  asmolkov
+
+	* [r16435] src/mkt-analog.c:
+
+2016-04-14 08:25  asmolkov
+
+	* [r16426] src/mkt-analog.c, src/mkt-license-model.c,
+	  src/mkt-license-model.h, src/mkt-license.c, src/mkt-license.h,
+	  src/ultimate-messparm.c:
+
+2016-04-11 13:25  asmolkov
+
+	* [r16396] debian/libmktlib-2.0.postinst:
+
+2016-04-11 13:13  asmolkov
+
+	* [r16395] debian/control, debian/libmktlib-2.0.postinst,
+	  src/mktlib.c, src/mktlib.h:
+
+2016-04-07 14:31  asmolkov
+
+	* [r16379] src/ultimate-messparm-object.c:
+
+2016-04-07 14:24  asmolkov
+
+	* [r16378] src/ultimate-messparm.c:
+
+2016-04-07 09:56  asmolkov
+
+	* [r16357] src/mkt-cal.c, src/mkt-cal.h:
+
+2016-04-05 15:11  asmolkov
+
+	* [r16334] src/Makefile.am, src/mkt-paramboolean-model.c,
+	  src/mkt-paramboolean-model.h, src/mkt-paramboolean.c,
+	  src/mkt-paramboolean.h, src/mkt-paramdouble.c, src/mktlib.c,
+	  src/mktlib.h:
+
+2016-04-05 14:40  asmolkov
+
+	* [r16330] src/mkt-model.c:
+
+2016-04-01 14:14  asmolkov
+
+	* [r16295] src/mkt-limit.c:
+
+2016-04-01 10:35  asmolkov
+
+	* [r16293] src/mkt-model.c, src/mkt-param.c,
+	  src/mkt-paramdouble-model.c, src/mkt-paramdouble-model.h,
+	  src/mkt-paramdouble.c, src/mkt-paramdouble.h,
+	  src/mkt-paramint32-model.c, src/mkt-paramint32-model.h,
+	  src/mkt-paramint32.c, src/mktlib.c:
+
+2016-04-01 07:11  asmolkov
+
+	* [r16278] src/mkt-paramdouble-model.c, src/mkt-paramdouble.c,
+	  src/mkt-paramdouble.h:
+
+2016-03-31 12:33  asmolkov
+
+	* [r16261] src/mkt-boolexp-parser.c:
+
+2016-03-30 13:00  asmolkov
+
+	* [r16256] src/Makefile.am, src/mkt-paramdouble-model.c,
+	  src/mkt-paramdouble-model.h, src/mkt-paramdouble.c,
+	  src/mkt-paramdouble.h, src/mktlib.h:
+
+2016-03-30 12:18  asmolkov
+
+	* [r16247] src/Makefile.am, src/mkt-connection.c,
+	  src/mkt-connection.h, src/mkt-paramint32-model.c,
+	  src/mkt-paramint32-model.h, src/mkt-paramint32.c,
+	  src/mkt-paramint32.h, src/mktlib.h:
+
+2016-03-29 12:52  asmolkov
+
+	* [r16235] src/mkt-process-model.c, src/mkt-process.c:
+
+2016-03-29 12:20  asmolkov
+
+	* [r16232] src/mktlib.c:
+
+2016-03-29 12:17  asmolkov
+
+	* [r16231] debian/libmktlib-2.0.postinst, src/mkt-connection.c,
+	  src/mkt-connection.h, src/mkt-process-model.c:
+
+2016-03-29 11:18  asmolkov
+
+	* [r16228] src/market-time.c, src/market-time.h,
+	  src/mkt-measurement-data.c:
+
+2016-03-29 09:17  asmolkov
+
+	* [r16226] src/mkt-measurement-data.c, src/mkt-measurement.c:
+
+2016-03-29 08:07  asmolkov
+
+	* [r16222] src/mkt-process.h:
+
+2016-03-29 08:02  asmolkov
+
+	* [r16220] src/mkt-process-model.h:
+
+2016-03-24 15:31  asmolkov
+
+	* [r16217] src/market-time.c, src/market-time.h:
+
+2016-03-24 15:18  asmolkov
+
+	* [r16216] ChangeLog, src/market-time.c, src/market-time.h:
+
+2016-03-24 13:34  asmolkov
+
+	* [r16215] src/Makefile.am, src/mkt-measurement-data.c,
+	  src/mkt-measurement.c, src/mkt-process-model.c,
+	  src/mkt-process-model.h, src/mkt-process.c, src/mkt-process.h,
+	  src/mktlib.h:
+
+2016-03-22 15:39  asmolkov
+
+	* [r16196] src/mkt-injection.c:
+
+2016-03-22 15:16  asmolkov
+
+	* [r16192] src/mkt-injection.c:
+
+2016-03-22 14:39  asmolkov
+
+	* [r16190] src/mkt-injection.c:
+
+2016-03-22 14:34  asmolkov
+
+	* [r16189] src/mkt-injection-model.c, src/mkt-injection.c:
+
+2016-03-22 10:58  asmolkov
+
+	* [r16182] src/malfunc.h:
+
+2016-03-18 12:10  asmolkov
+
+	* [r16140] po/mktlib.mo, po/mktlib.po:
+
+2016-03-16 08:47  asmolkov
+
+	* [r16124] src/mkt-error.c, src/mkt-limit.c:
+
+2016-03-15 09:25  asmolkov
+
+	* [r16103] src/mkt-boolexp-parser.c:
+
+2016-03-15 08:45  asmolkov
+
+	* [r16101] src/mkt-boolexp-parser.c:
+
+2016-03-15 08:45  asmolkov
+
+	* [r16100] src/mkt-boolexp-parser.c, src/mkt-boolexp-parser.h:
+
+2016-03-15 08:43  asmolkov
+
+	* [r16099] src/mkt-boolexp-parser.c:
+
+2016-03-15 08:19  asmolkov
+
+	* [r16098] src/mkt-boolexp-parser.c:
+
+2016-03-14 14:59  asmolkov
+
+	* [r16089] src/mkt-boolexp-parser.c:
+
+2016-03-14 14:57  asmolkov
+
+	* [r16088] src/mkt-boolexp-parser.c:
+
+2016-03-14 14:33  asmolkov
+
+	* [r16087] src/mkt-boolexp-parser.c, src/mkt-boolexp-parser.h:
+
+2016-03-14 09:43  asmolkov
+
+	* [r16084] src/mkt-boolexp-parser.c, src/mkt-measurement-data.c,
+	  src/mkt-measurement.c, src/mkt-measurement.h, src/mktlib.h:
+
+2016-03-11 14:04  asmolkov
+
+	* [r16079] Makefile.am:
+
+2016-03-11 13:54  asmolkov
+
+	* [r16077] src/mkt-boolexp-parser.c, src/mkt-boolexp-parser.h:
+
+2016-03-11 13:41  asmolkov
+
+	* [r16076] src/Makefile.am, src/mkt-boolexp-parser.c,
+	  src/mkt-boolexp-parser.h, src/mkt-utils.c, src/mkt-utils.h:
+
+2016-03-10 13:41  asmolkov
+
+	* [r16052] src/mkt-channel-model.c:
+
+2016-03-10 13:40  asmolkov
+
+	* [r16051] Makefile.am, src/mkt-channel-model.c:
+
+2016-03-08 13:02  asmolkov
+
+	* [r16023] src/mkt-injection.c:
+
+2016-03-08 12:32  asmolkov
+
+	* [r16020] src/mkt-injection.c:
+
+2016-03-08 08:59  asmolkov
+
+	* [r16011] src/mkt-channel.c:
+
+2016-03-08 08:56  asmolkov
+
+	* [r16010] src/mkt-channel-model.c, src/mkt-channel.c: Channel add
+	  check analog out property
+
+2016-03-07 16:28  asmolkov
+
+	* [r16005] src/mkt-channel-model.c, src/mkt-channel.c:
+
+2016-03-07 15:45  asmolkov
+
+	* [r16002] src/mkt-channel.h:
+
+2016-03-07 13:08  asmolkov
+
+	* [r15996] src/mkt-limit.c:
+
+2016-03-07 09:17  asmolkov
+
+	* [r15987] po/LINGUAS:
+
+2016-03-07 08:16  asmolkov
+
+	* [r15984] src/mkt-channel-model.c, src/mkt-channel.c:
+
+2016-03-04 13:19  asmolkov
+
+	* [r15950] src/mkt-limit.c:
+
+2016-03-04 12:51  asmolkov
+
+	* [r15945] po/LINGUAS:
+
+2016-03-04 10:01  asmolkov
+
+	* [r15933] po/POTFILES.in, po/mktlib.pot, src/mkt-statistic.c,
+	  src/mktlib.c:
+
+2016-03-03 14:48  asmolkov
+
+	* [r15925] src/mkt-measurement-data.c, src/mkt-measurement.c,
+	  src/mkt-measurement.h:
+
+2016-03-03 11:31  asmolkov
+
+	* [r15922] po/mktlib.pot, src/mkt-measurement-data.c,
+	  src/mkt-measurement.c, src/mkt-measurement.h:
+
+2016-03-01 16:01  asmolkov
+
+	* [r15878] src/mkt-user.c:
+
+2016-02-29 16:38  asmolkov
+
+	* [r15844] src/mkt-channel.c:
+
+2016-02-29 11:59  asmolkov
+
+	* [r15827] src/mkt-limit-message.c, src/mkt-limit.c,
+	  src/mkt-limit.h:
+
+2016-02-23 13:50  asmolkov
+
+	* [r15786] src/mkt-limit.c:
+
+2016-02-23 08:16  asmolkov
+
+	* [r15775] src/mkt-param-object.c, src/mkt-param.c:
+
+2016-02-22 09:10  gstuetzer
+
+	* [r15767] src/malfunc.h: Fehlernummern korrigiert.
+
+2016-02-19 15:39  asmolkov
+
+	* [r15766] src/mkt-channel-model.c, src/mkt-channel.c:
+
+2016-02-19 13:25  asmolkov
+
+	* [r15764] src/Makefile.am:
+
+2016-02-19 13:21  gstuetzer
+
+	* [r15762] src/malfunc.h: 1815 und 1831 waren beide
+	  MALFUNC_ULTIMATE_HUMIDITY_LIMIT_EXCEEDED
+
+2016-02-19 13:20  asmolkov
+
+	* [r15761] src/mktlib.h:
+
+2016-02-19 13:19  asmolkov
+
+	* [r15760] src/malfunc.h:
+
+2016-02-19 13:15  gstuetzer
+
+	* [r15759] src/malfunc.h: Störungsmeldungen
+
+2016-02-19 11:03  asmolkov
+
+	* [r15742] src/mkt-param.c:
+
+2016-02-19 09:29  asmolkov
+
+	* [r15741] src/ultimate-messparm.c:
+
+2016-02-19 06:07  gstuetzer
+
+	* [r15739] src/basics.h: neues Makro 'id'
+
+2016-02-11 13:32  asmolkov
+
+	* [r15708] po:
+
+2016-02-11 10:50  asmolkov
+
+	* [r15702] src/mkt-statistic.c, src/ultimate-messparm.c:
+
+2016-02-11 10:44  asmolkov
+
+	* [r15701] src/mkt-channel.c, src/mkt-measurement-data.c,
+	  src/mkt-measurement.c, src/ultimate-integration.c,
+	  src/ultimate-messparm.c:
+
+2016-02-09 15:16  asmolkov
+
+	* [r15677] src/mkt-statistic.c:
+
+2016-02-05 14:40  asmolkov
+
+	* [r15652] src/mkt-log.h, src/mkt-param-object.c, src/mkt-param.c,
+	  src/mkt-param.h:
+
+2016-02-05 14:17  asmolkov
+
+	* [r15649] src/mkt-log.c, src/mkt-log.h:
+
+2016-02-04 09:50  asmolkov
+
+	* [r15613] src/mkt-category.c, src/mkt-channel.c, src/mkt-limit.c,
+	  src/mkt-statistic.c, src/mkt-stream.c, src/mkt-vessel.c,
+	  src/ultimate-integration.c, src/ultimate-posparm.c:
+
+2016-02-04 09:36  asmolkov
+
+	* [r15612] src/mkt-model.c:
+
+2016-02-03 12:43  asmolkov
+
+	* [r15603] Makefile.in.in, configure.ac, mktlib-2.2.1.tar.xz, po,
+	  po/POTFILES.in:
+
+2016-02-03 12:43  asmolkov
+
+	* [r15602] po/mktlib.pot:
+
+2016-02-03 10:47  asmolkov
+
+	* [r15595] src/mkt-model.c:
+
+2016-02-03 10:06  asmolkov
+
+	* [r15591] src/mkt-model.c:
+
+2016-02-02 10:03  asmolkov
+
+	* [r15571] src/ultimate-messparm-object.c, src/ultimate-messparm.c:
+
+2016-02-01 10:58  asmolkov
+
+	* [r15558] src/ultimate-messparm.c:
+
+2016-01-28 13:29  asmolkov
+
+	* [r15508] src/ultimate-messparm-object.c:
+
+2016-01-28 12:59  asmolkov
+
+	* [r15506] src/ultimate-messparm.c:
+
+2016-01-26 09:44  asmolkov
+
+	* [r15479] src/mkt-cal-model.c, src/mkt-cal.c, src/mkt-model.c,
+	  src/ultimate-messparm-object.c, src/ultimate-messparm.c:
+
+2016-01-14 17:55  asmolkov
+
+	* [r15410] Makefile.am:
+
+2016-01-14 16:34  asmolkov
+
+	* [r15406] src/mkt-relay.c:
+
+2016-01-14 15:49  asmolkov
+
+	* [r15403] src/mkt-relay-model.c, src/mkt-relay.c:
+
+2016-01-13 14:09  asmolkov
+
+	* [r15376] Makefile.am, src/mkt-error.c, src/mkt-error.h:
+
+2016-01-12 10:13  asmolkov
+
+	* [r15339] Makefile.am:
+
+2016-01-08 12:37  asmolkov
+
+	* [r15307] debian/libmktlib-2.0.postinst:
+
+2016-01-08 12:00  asmolkov
+
+	* [r15301] debian/libmktlib-2.0.postinst:
+
+2016-01-08 10:03  asmolkov
+
+	* [r15296] debian/libmktlib-2.0.postinst:
+
+2016-01-08 09:28  asmolkov
+
+	* [r15293] debian/libmktlib-2.0.postinst:
+
+2016-01-08 08:25  asmolkov
+
+	* [r15284] .:
+
+2016-01-06 14:03  asmolkov
+
+	* [r15232] src/mkt-error.c, src/mkt-error.h:
+
+2016-01-06 13:29  asmolkov
+
+	* [r15231] src/mkt-error.c, src/mkt-error.h, src/mkt-log-message.c,
+	  src/mkt-log.c, src/mkt-log.h:
+
+2016-01-06 10:23  asmolkov
+
+	* [r15222] src/mkt-limit-message.c:
+
+2016-01-06 10:20  asmolkov
+
+	* [r15221] src/mkt-limit-message.c:
+
+2016-01-06 10:02  asmolkov
+
+	* [r15220] src/mkt-limit-message.c, src/mkt-limit.c,
+	  src/mkt-limit.h:
+
+2016-01-06 08:55  asmolkov
+
+	* [r15211] debian/libmktlib-2.0.postinst,
+	  debian/libmktlib-2.0.postinst.in, src/mkt-connection.c:
+
+2015-12-18 09:57  asmolkov
+
+	* [r15178] src/mkt-model.c:
+
+2015-12-14 15:58  asmolkov
+
+	* [r15144] src/mkt-error.c, src/mkt-error.h, src/mkt-selection.c:
+
+2015-11-27 08:35  asmolkov
+
+	* [r15041] src/market-time.c:
+
+2015-11-19 10:33  asmolkov
+
+	* [r15024] .:
+
+2015-11-18 10:40  asmolkov
+
+	* [r14988] src/mkt-selection.c:
+
+2015-11-18 09:12  asmolkov
+
+	* [r14982] src/mkt-selection.c:
+
+2015-11-18 09:11  asmolkov
+
+	* [r14981] src/mkt-model.c:
+
+2015-11-03 16:35  asmolkov
+
+	* [r14829] src/mkt-log.c, src/mkt-log.h:
+
+2015-11-02 11:01  asmolkov
+
+	* [r14802] src/mkt-model.c, src/mkt-model.h, src/mkt-selection.c,
+	  src/mkt-selection.h:
+
+2015-11-02 09:39  asmolkov
+
+	* [r14801] src/market-time.c:
+
+2015-10-28 15:54  asmolkov
+
+	* [r14781] src/mkt-analog.c:
+
+2015-10-28 15:54  asmolkov
+
+	* [r14780] src/mkt-analog.c:
+
+2015-10-28 12:23  asmolkov
+
+	* [r14772] src/mkt-value.c, src/mkt-value.h:
+
+2015-10-26 09:04  asmolkov
+
+	* [r14721] src/mkt-measurement.c:
+
+2015-10-22 16:09  asmolkov
+
+	* [r14715] src/mkt-sensor-data.c:
+
+2015-10-21 13:05  asmolkov
+
+	* [r14706] src/mkt-limit.c, src/mkt-limit.h, src/mkt-value.c:
+
+2015-10-21 09:57  asmolkov
+
+	* [r14703] src/mkt-limit-message.c, src/mkt-limit.c:
+
+2015-10-15 12:42  asmolkov
+
+	* [r14680] src/mkt-analog-model.c, src/mkt-analog.c:
+
+2015-10-15 12:02  asmolkov
+
+	* [r14678] src/mkt-analog-model.c, src/mkt-analog.c,
+	  src/mkt-model.h:
+
+2015-09-30 10:11  asmolkov
+
+	* [r14631] src/mkt-status-model.c, src/mkt-status.c:
+
+2015-09-30 10:08  asmolkov
+
+	* [r14630] src/mkt-status.c:
+
+2015-09-30 09:55  asmolkov
+
+	* [r14628] src/mkt-status-model.c:
+
+2015-09-30 09:47  asmolkov
+
+	* [r14627] src/mkt-status-model.c, src/mkt-status.c,
+	  src/mkt-status.h:
+
+2015-09-30 09:23  asmolkov
+
+	* [r14626] src/mkt-status.h:
+
+2015-09-30 09:16  asmolkov
+
+	* [r14624] src/mkt-status.c:
+
+2015-09-30 08:21  asmolkov
+
+	* [r14623] src/mkt-status.c, src/mkt-status.h:
+
+2015-09-29 14:43  asmolkov
+
+	* [r14620] src/mkt-status-model.c, src/mkt-status.c,
+	  src/mkt-status.h:
+
+2015-09-29 14:00  asmolkov
+
+	* [r14619] src/mkt-error.c, src/mkt-status.c, src/mkt-status.h,
+	  src/mktlib.c, src/mktlib.h:
+
+2015-09-29 09:18  asmolkov
+
+	* [r14611] src/mkt-cal-point.c:
+
+2015-09-29 07:54  asmolkov
+
+	* [r14608] src/mkt-limit.c, src/mkt-log.c:
+
+2015-09-28 15:38  asmolkov
+
+	* [r14604] src/mkt-SQLite-connection.c, src/mkt-axis-model.c,
+	  src/mkt-cal-point-model.c, src/mkt-cal-point.c,
+	  src/mkt-calibration-model.c, src/mkt-calibration.c,
+	  src/mkt-channel-model.c, src/mkt-connection.c,
+	  src/mkt-data-column.c, src/mkt-injection-model.c, src/mkt-log.c,
+	  src/mkt-model.c:
+
+2015-09-14 13:31  asmolkov
+
+	* [r14541] src/mkt-category-model.c, src/mkt-category.c:
+
+2015-09-14 07:08  asmolkov
+
+	* [r14515] src/mkt-statistic-model.c, src/mkt-statistic.c,
+	  src/ultimate-messparm-object.c, src/ultimate-messparm.c:
+
+2015-09-10 13:59  gstuetzer
+
+	* [r14499] src/market-time.c: Funktion für die Zeitumstellung,
+	  verbessert.
+
+2015-09-10 12:52  gstuetzer
+
+	* [r14496] src/market-time.c: test
+
+2015-09-10 10:43  gstuetzer
+
+	* [r14495] src/market-time.c: Datum setzen ist nicht schön, aber
+	  funktioniert schon einmal.
+
+2015-09-10 06:34  gstuetzer
+
+	* [r14481] src/market-time.c, src/market-time.h: Die zum finden des
+	  Fehlers "Absturz bei Datumseingabe" erforderliche Funcktion
+	  "trace" wurde entfernt.
+
+2015-09-09 12:59  gstuetzer
+
+	* [r14467] src/market-time.c: test
+
+2015-09-09 09:23  gstuetzer
+
+	* [r14457] src/market-time.c: trace
+
+2015-09-08 13:57  gstuetzer
+
+	* [r14445] src/market-time.c: test
+
+2015-09-08 13:30  gstuetzer
+
+	* [r14444] src/market-time.c: test
+
+2015-09-08 13:02  gstuetzer
+
+	* [r14442] src/market-time.c, src/market-time.h: test
+
+2015-09-08 12:54  gstuetzer
+
+	* [r14441] src/market-time.c: test
+
+2015-09-08 12:26  gstuetzer
+
+	* [r14440] src/market-time.c: Zum Testen
+
+2015-09-07 10:20  asmolkov
+
+	* [r14426] src/mkt-channel.c, src/mkt-measurement-data.c,
+	  src/mkt-measurement.c, src/ultimate-integration.c:
+
+2015-09-02 10:30  gstuetzer
+
+	* [r14414] src/basics.h, src/stringFuncs.h: deutsch: pc-settings
+	  pc-setting-network
+
+2015-08-31 13:15  asmolkov
+
+	* [r14402] src/mkt-channel.c:
+
+2015-08-31 07:11  gstuetzer
+
+	* [r14398] src/basics.h: Deutsch
+
+2015-08-28 13:41  gstuetzer
+
+	* [r14397] src/market-time.c, src/market-time.h: Datumseingabe für
+	  PcSettings geht jetzt.
+
+2015-08-25 13:51  asmolkov
+
+	* [r14391] src/mkt-channel-model.c, src/mkt-channel.c:
+
+2015-08-25 09:29  asmolkov
+
+	* [r14384] src/Makefile.am, src/mkt-channel-model.c,
+	  src/mkt-channel.c, src/mkt-status-model.c,
+	  src/mkt-status-model.h, src/mkt-status.c, src/mkt-status.h,
+	  src/mkt-user-model.c, src/mkt-user.c:
+
+2015-08-24 14:45  asmolkov
+
+	* [r14381] src/mkt-measurement.c:
+
+2015-08-24 06:48  gstuetzer
+
+	* [r14373] src/market-time.c, src/market-time.h: Neue Funktionen
+	  'mktHumanDateShortTime' und 'market_db_human_date_short_time'
+
+2015-08-21 11:00  gstuetzer
+
+	* [r14369] src/market-time.c, src/market-time.h: Fehlerkorrektur
+
+2015-08-21 10:43  gstuetzer
+
+	* [r14368] src/market-time.c: In der Funktion 'formattedTime' in
+	  der Datei 'market-time.c' wurde die
+	  Konvertierung von 'mktTime_t' auf 'struct tm' jetzt mit
+	  'localtime' statt
+	  mit 'gmtime' durchgeführt, so dass die lokale Zeit angezeigt
+	  wird.
+	  
+	  Da 'formattedTime' von 'mktHumanDate' und 'mktHumanTime' benutzt
+	  wird,
+	  betrifft die Änderung auch diese Funktionen.
+
+2015-08-21 07:54  asmolkov
+
+	* [r14364] ltmain.sh:
+
+2015-08-17 14:09  asmolkov
+
+	* [r14318] src/mkt-channel.c, src/mkt-limit.c,
+	  src/ultimate-messparm.c:
+
+2015-08-17 13:14  asmolkov
+
+	* [r14316] src/market-time.c:
+
+2015-08-17 11:54  asmolkov
+
+	* [r14309] src/mkt-calibration.c:
+
+2015-08-17 09:19  asmolkov
+
+	* [r14307] src/mkt-calibration-model.c, src/mkt-calibration.c,
+	  src/mkt-calibration.h:
+
+2015-08-17 09:16  asmolkov
+
+	* [r14306] src/mkt-cal-data-model.c, src/mkt-cal-data.c,
+	  src/mkt-cal-data.h, src/mkt-cal-point-model.c,
+	  src/mkt-cal-point.c, src/mkt-cal-point.h,
+	  src/mkt-calibration-model.c, src/mkt-calibration.c:
+
+2015-08-14 13:03  asmolkov
+
+	* [r14305] src/mkt-cal-point-model.c, src/mkt-cal-point.c:
+
+2015-08-14 09:16  asmolkov
+
+	* [r14297] src/mkt-measurement-data.c, src/mkt-measurement.c:
+
+2015-08-13 11:33  asmolkov
+
+	* [r14279] src/mkt-limit-message.c, src/mkt-limit.c,
+	  src/mkt-limit.h, src/ultimate-messparm-object.c,
+	  src/ultimate-messparm.c:
+
+2015-08-12 10:02  asmolkov
+
+	* [r14267] src/mkt-limit-message.c, src/mkt-limit.c,
+	  src/mkt-limit.h:
+
+2015-08-12 09:35  asmolkov
+
+	* [r14266] src/mkt-limit.c:
+
+2015-08-11 10:17  asmolkov
+
+	* [r14255] src/mkt-cal-model.c, src/mkt-cal.c,
+	  src/mkt-calibration-model.c:
+
+2015-08-07 12:51  asmolkov
+
+	* [r14245] src/mkt-calibration-model.c, src/mkt-calibration.c:
+
+2015-08-07 10:18  asmolkov
+
+	* [r14242] configure.ac, debian/changelog, src/mkt-cal-model.c,
+	  src/mkt-cal-model.h, src/mkt-cal.c, src/mkt-calibration-model.c,
+	  src/mkt-calibration.c, src/mkt-data-model.c:
+
+2015-08-06 15:34  asmolkov
+
+	* [r14238] src/mkt-cal-model.c, src/mkt-cal.c, src/mkt-cal.h,
+	  src/mkt-calibration-model.c, src/mkt-calibration-model.h,
+	  src/mkt-calibration.c, src/mkt-calibration.h:
+
+2015-08-05 10:32  gstuetzer
+
+	* [r14214] src/basics.h: xx
+
+2015-08-05 10:27  gstuetzer
+
+	* [r14213] src/basics.h: xx
+
+2015-08-04 08:29  asmolkov
+
+	* [r14191] src/Makefile.am, src/mkt-relay-model.c,
+	  src/mkt-user-model.c, src/mkt-user-model.h, src/mkt-user.c,
+	  src/mkt-user.h, src/mktlib.c, src/mktlib.h:
+
+2015-08-04 07:25  asmolkov
+
+	* [r14189] src/Makefile.am, src/stringFuncs.c,
+	  src/ultimate-integration.c, src/ultimate-integration.h,
+	  src/ultimate-messparm-object.h, src/ultimate-messparm.h,
+	  src/ultimate-posparm-object.h, src/ultimate-posparm.h:
+
+2015-07-31 13:10  asmolkov
+
+	* [r14184] src/mkt-error-message.c, src/mkt-error.c,
+	  src/mkt-error.h:
+
+2015-07-31 12:31  asmolkov
+
+	* [r14182] src/Makefile.am, src/mkt-error.c, src/mkt-error.h,
+	  src/mkt-log.h, src/mkt-model.c, src/mktlib.h:
+
+2015-07-28 07:39  gstuetzer
+
+	* [r14167] src/stringFuncs.c, src/stringFuncs.h: Neueste Änderungen
+	  im Statusbildschirm
+
+2015-07-23 08:44  asmolkov
+
+	* [r14128] src/mkt-vessel.c:
+
+2015-07-23 07:46  asmolkov
+
+	* [r14124] src/ultimate-integration.c:
+
+2015-07-16 13:15  asmolkov
+
+	* [r14089] src/mkt-log.c, src/mkt-log.h:
+
+2015-07-16 08:03  asmolkov
+
+	* [r14076] src/Makefile.am:
+
+2015-07-16 06:45  gstuetzer
+
+	* [r14073] src/stringFuncs.h: Ein Makro in 'stringFuncs.h'
+	  (ULTRA_VERSION) enthält jetzt die aktuelle
+	  Version 5.0 .
+	  Notwendig, da diese Version auch im PC-Settingsbildschirm benutzt
+	  wird.
+
+2015-07-16 06:24  gstuetzer
+
+	* [r14071] src/market-statemachine.h, src/market-time.c,
+	  src/market-time.h, src/mkt-SQLite-connection.h,
+	  src/mkt-analog-model.c, src/mkt-analog-model.h, src/mkt-analog.c,
+	  src/mkt-analog.h, src/mkt-cal-data-model.c,
+	  src/mkt-cal-data-model.h, src/mkt-cal-data.c, src/mkt-cal-data.h,
+	  src/mkt-cal-point-model.c, src/mkt-cal-point-model.h,
+	  src/mkt-cal-point.c, src/mkt-cal-point.h,
+	  src/mkt-channel-model.h, src/mkt-connection.c, src/mkt-data.c,
+	  src/mkt-data.h, src/mkt-error-message.c, src/mkt-error-message.h,
+	  src/mkt-error.c, src/mkt-error.h, src/mkt-item-object.c,
+	  src/mkt-item-object.h, src/mkt-item.c, src/mkt-item.h,
+	  src/mkt-limit-message.c, src/mkt-limit-message.h,
+	  src/mkt-limit.c, src/mkt-limit.h, src/mkt-log-message.c,
+	  src/mkt-log-message.h, src/mkt-log.c, src/mkt-log.h,
+	  src/mkt-measurement-data.c, src/mkt-measurement-data.h,
+	  src/mkt-measurement.c, src/mkt-measurement.h, src/mkt-module.c,
+	  src/mkt-module.h, src/mkt-mutex.c, src/mkt-mutex.h,
+	  src/mkt-param-object.c, src/mkt-param-object.h, src/mkt-param.c,
+	  src/mkt-param.h, src/mkt-parcer-apache.c,
+	  src/mkt-parcer-apache.h, src/mkt-relay-model.c,
+	  src/mkt-relay-model.h, src/mkt-relay.c, src/mkt-relay.h,
+	  src/mkt-sensor-data.c, src/mkt-sensor-data.h,
+	  src/mkt-sql-parser.c, src/mkt-sql-parser.h, src/mkt-value.c,
+	  src/mkt-value.h, src/ultimate-integration-object.h,
+	  src/ultimate-integration.c, src/ultimate-integration.h,
+	  src/ultimate-messparm-object.c, src/ultimate-messparm-object.h,
+	  src/ultimate-messparm.c, src/ultimate-posparm-object.c,
+	  src/ultimate-posparm-object.h, src/ultimate-posparm.c,
+	  src/ultimate-posparm.h: x Recht entfernt
+
+2015-07-16 06:22  gstuetzer
+
+	* [r14070] src/market-statemachine.h, src/market-time.c,
+	  src/market-time.h, src/mkt-SQLite-connection.h,
+	  src/mkt-analog-model.c, src/mkt-analog-model.h, src/mkt-analog.c,
+	  src/mkt-analog.h, src/mkt-cal-data-model.c,
+	  src/mkt-cal-data-model.h, src/mkt-cal-data.c, src/mkt-cal-data.h,
+	  src/mkt-cal-point-model.c, src/mkt-cal-point-model.h,
+	  src/mkt-cal-point.c, src/mkt-cal-point.h,
+	  src/mkt-channel-model.h, src/mkt-connection.c, src/mkt-data.c,
+	  src/mkt-data.h, src/mkt-error-message.c, src/mkt-error-message.h,
+	  src/mkt-error.c, src/mkt-error.h, src/mkt-item-object.c,
+	  src/mkt-item-object.h, src/mkt-item.c, src/mkt-item.h,
+	  src/mkt-limit-message.c, src/mkt-limit-message.h,
+	  src/mkt-limit.c, src/mkt-limit.h, src/mkt-log-message.c,
+	  src/mkt-log-message.h, src/mkt-log.c, src/mkt-log.h,
+	  src/mkt-measurement-data.c, src/mkt-measurement-data.h,
+	  src/mkt-measurement.c, src/mkt-measurement.h, src/mkt-module.c,
+	  src/mkt-module.h, src/mkt-mutex.c, src/mkt-mutex.h,
+	  src/mkt-param-object.c, src/mkt-param-object.h, src/mkt-param.c,
+	  src/mkt-param.h, src/mkt-parcer-apache.c,
+	  src/mkt-parcer-apache.h, src/mkt-relay-model.c,
+	  src/mkt-relay-model.h, src/mkt-relay.c, src/mkt-relay.h,
+	  src/mkt-sensor-data.c, src/mkt-sensor-data.h,
+	  src/mkt-sql-parser.c, src/mkt-sql-parser.h, src/mkt-value.c,
+	  src/mkt-value.h, src/ultimate-integration-object.h,
+	  src/ultimate-integration.c, src/ultimate-integration.h,
+	  src/ultimate-messparm-object.c, src/ultimate-messparm-object.h,
+	  src/ultimate-messparm.c, src/ultimate-posparm-object.c,
+	  src/ultimate-posparm-object.h, src/ultimate-posparm.c,
+	  src/ultimate-posparm.h: xx
+
+2015-07-16 06:15  gstuetzer
+
+	* [r14069] AUTHORS, COPYING, INSTALL, NEWS, README: Execution Bit
+	  entfernt
+
+2015-07-16 06:14  gstuetzer
+
+	* [r14068] AUTHORS, COPYING, INSTALL, NEWS, README: xx
+
+2015-07-13 12:02  gstuetzer
+
+	* [r14041] src/market-time.c: Änderung an 'formattedTime'. Jetzt
+	  mit laufendem Puffer, so dass mehrere Werte
+	  zwischengespeichert werden können.
+
+2015-07-10 14:07  gstuetzer
+
+	* [r14033] src/market-time.c, src/market-time.h: Und noch:
+	  const char* market_db_human_date (const char* lang, double t)
+	  const char* market_db_human_time (const char* lang, double t)
+
+2015-07-10 13:53  gstuetzer
+
+	* [r14032] src/basics.h, src/market-time.c, src/market-time.h: Neue
+	  Funktionen:
+	  const char* formattedTime (const char* format, const mktTime_t*
+	  tStamp);
+	  const char* mktHumanDate (const char* lang, mktTime_t* t);
+	  const char* mktHumanTime (const char* lang, mktTime_t* t);
+	  
+	  basics.h:
+	  Makros für 'g_list_free' und 'g_slist_free', so dass der Aufruf
+	  für Null-
+	  zeiger unterdrückt wird und die zeigervariable anschließen auf
+	  NULL gesetzt
+	  wird.
+
+2015-07-08 10:55  gstuetzer
+
+	* [r13987] src/basics.h: BASICS_freeToNull ersetzt jetzt auch
+	  'g_list_free'. (Pointer wird auf NULL
+	  gesetzt)
+
+2015-06-30 11:58  asmolkov
+
+	* [r13937] src/ultimate-posparm.c:
+
+2015-06-30 08:55  asmolkov
+
+	* [r13931] configure.ac:
+
+2015-06-30 06:44  asmolkov
+
+	* [r13924] src/mkt-cal-model.c, src/mkt-cal-point-model.c,
+	  src/mkt-cal.c, src/mkt-cal.h, src/mkt-calibration-model.c,
+	  src/mkt-calibration.c:
+
+2015-06-29 06:44  gstuetzer
+
+	* [r13917] src/Makefile.am, src/mktlib.h, src/stringFuncs.c,
+	  src/stringFuncs.h: mktlib wurde um das Modul stringFuncs
+	  erweitert, welches derzeit nur die
+	  Funktion 'doubleStr' enthält.
+
+2015-06-26 14:54  asmolkov
+
+	* [r13914] src/mkt-cal-model.c:
+
+2015-06-26 11:59  asmolkov
+
+	* [r13913] src/mkt-cal-model.c, src/mkt-cal.c, src/mkt-cal.h:
+
+2015-06-24 09:33  asmolkov
+
+	* [r13887] .settings, src/mkt-cal-point.c:
+
+2015-06-23 15:27  asmolkov
+
+	* [r13883] src/mkt-cal.c:
+
+2015-06-23 14:56  asmolkov
+
+	* [r13882] src/mkt-cal-model.c, src/mkt-cal-point.c, src/mkt-cal.c,
+	  src/mkt-cal.h:
+
+2015-06-22 08:29  asmolkov
+
+	* [r13845] src/mkt-SQLite-connection.c:
+
+2015-06-15 09:40  asmolkov
+
+	* [r13836] src/mkt-value.c:
+
+2015-06-15 06:47  gstuetzer
+
+	* [r13825] src/Makefile.am: xx
+
+2015-06-15 06:42  gstuetzer
+
+	* [r13823] src/basics.h, src/mktlib.h: basics.h wird zwar über
+	  'mktlib.h' immer einbezogen, hat aber nur dann auch
+	  eine Auswirkung, wenn basics_USE entsprechend definiert wird.
+	  
+	  basics.h kann mit verschiedenen Definitionen von basics_USE auch
+	  mehrfach
+	  einbezogen werden. Die noch nicht erfolgten
+	  Definitionen/Deklarationen werden
+	  hinzugenommen.
+	  
+	  #define basics_USE BASICS_ALL
+	  #include "basics.h"
+	  führt alle Definitionen/Deklarationen aus 'basics.h' durch.
+
+2015-06-12 07:21  asmolkov
+
+	* [r13777] src/mkt-channel-model.c, src/mkt-channel.c,
+	  src/mkt-channel.h:
+
+2015-06-09 16:03  asmolkov
+
+	* [r13720] src/ultimate-integration-object.c,
+	  src/ultimate-integration.c:
+
+2015-06-09 10:10  asmolkov
+
+	* [r13713] src/mkt-channel-model.c, src/mkt-channel.c,
+	  src/mkt-measurement.c:
+
+2015-06-09 08:23  asmolkov
+
+	* [r13708] src/ultimate-integration-object.c:
+
+2015-06-09 08:22  asmolkov
+
+	* [r13707] src/ultimate-integration-object.c,
+	  src/ultimate-integration.c, src/ultimate-integration.h:
+
+2015-06-05 07:09  asmolkov
+
+	* [r13669] src/mkt-measurement.c:
+
+2015-06-04 11:05  asmolkov
+
+	* [r13660] src/mkt-measurement-data.c, src/mkt-measurement.c,
+	  src/mkt-measurement.h:
+
+2015-06-04 09:21  asmolkov
+
+	* [r13657] src/mkt-measurement-data.c, src/mkt-measurement.c,
+	  src/mkt-measurement.h: Measurement data add new parameter art .
+	  Mögliche Verwendung z.B "S" - Singlemeasurement, "C" Check "M"
+	  measurement
+
+2015-06-03 15:06  asmolkov
+
+	* [r13656] src/mkt-channel-model.c:
+
+2015-06-03 13:06  asmolkov
+
+	* [r13652] src/mkt-measurement-data.c, src/mkt-measurement.c:
+	  Measurement data add row value.
+
+2015-06-03 12:53  asmolkov
+
+	* [r13651] src/market-time.c:
+
+2015-06-03 11:49  asmolkov
+
+	* [r13645] debian/changelog:
+
+2015-06-02 09:02  asmolkov
+
+	* [r13615] src/mkt-statistic-model.c, src/mkt-statistic.c:
+
+2015-06-02 07:56  asmolkov
+
+	* [r13614] src/ultimate-messparm-object.c, src/ultimate-messparm.c,
+	  src/ultimate-messparm.h:
+
+2015-06-01 11:35  asmolkov
+
+	* [r13607] src/Makefile.am, src/mkt-calibration-model.c:
+
+2015-06-01 08:35  blamowski
+
+	* [r13598] debian/rules: fix version problem: force full version in
+	  shlibs for all projects
+
+2015-06-01 06:59  blamowski
+
+	* [r13595] debian/rules: mktlib: try adding -V option to
+	  dh_makeshlibs via variable
+
+2015-05-28 15:00  asmolkov
+
+	* [r13584] src/mktlib.c:
+
+2015-05-28 12:50  asmolkov
+
+	* [r13582] src/mkt-cal-point.c:
+
+2015-05-28 07:25  asmolkov
+
+	* [r13581] src/mkt-cal-data-model.c, src/mkt-cal-data.c:
+
+2015-05-27 14:31  asmolkov
+
+	* [r13580] src/mkt-cal-model.c, src/mkt-cal.c, src/mkt-cal.h:
+
+2015-05-27 13:09  asmolkov
+
+	* [r13577] src/mkt-channel-model.c, src/mkt-channel.c,
+	  src/mkt-channel.h:
+
+2015-05-27 12:55  asmolkov
+
+	* [r13576] src/mkt-channel-model.c, src/mkt-channel.c,
+	  src/mkt-channel.h:
+
+2015-05-22 10:51  asmolkov
+
+	* [r13527] src/mkt-calibration-model.c:
+
+2015-05-22 09:38  asmolkov
+
+	* [r13525] src/mkt-cal-point-model.c, src/mkt-cal-point.c,
+	  src/mkt-cal-point.h:
+
+2015-05-22 09:38  asmolkov
+
+	* [r13524] src/mkt-cal-model.c:
+
+2015-05-21 13:49  blamowski
+
+	* [r13512] debian/libmktlib-2.0.symbols, debian/rules: mktlib: add
+	  -V option to dh_makeshlibs, remove symbols file
+
+2015-05-21 09:43  asmolkov
+
+	* [r13480] src/mkt-utils.c, src/mkt-utils.h:
+
+2015-05-21 08:39  asmolkov
+
+	* [r13478] src/mkt-cal-point-model.c:
+
+2015-05-21 07:51  blamowski
+
+	* [r13477] debian/libmktlib-2.0.symbols: mktlib: add symbols file
+	  for a test run
+
+2015-05-21 07:29  asmolkov
+
+	* [r13476] src/mkt-calibration-model.c, src/mkt-model.c:
+
+2015-05-20 14:33  asmolkov
+
+	* [r13475] src/mkt-model.c:
+
+2015-05-20 12:45  asmolkov
+
+	* [r13474] configure.ac, debian/changelog, debian/control,
+	  debian/libmktlib-2.0-dev.postinst.debhelper,
+	  debian/libmktlib-2.0-dev.postrm.debhelper,
+	  debian/libmktlib-2.0-doc.install,
+	  debian/libmktlib-2.0-doc.substvars,
+	  debian/libmktlib-2.0.postinst.debhelper,
+	  debian/libmktlib-2.0.postrm.debhelper,
+	  debian/libmktlib-2.0.substvars, src/Makefile.am,
+	  src/mkt-cal-data-model.c, src/mkt-cal-data.c, src/mkt-cal-data.h,
+	  src/mkt-cal-model.c, src/mkt-cal-point-model.c,
+	  src/mkt-cal-point.c, src/mkt-cal-point.h, src/mkt-cal.c,
+	  src/mkt-cal.h, src/mkt-calibration-model.c,
+	  src/mkt-calibration.c, src/mkt-calibration.h,
+	  src/mkt-channel-model.c, src/mkt-channel.c, src/mkt-channel.h,
+	  src/mkt-data.c, src/mkt-limit-message.c, src/mkt-limit.c,
+	  src/mkt-limit.h, src/mkt-link-object.c, src/mkt-link-object.h,
+	  src/mkt-link.c, src/mkt-link.h, src/mkt-measurement-data.c,
+	  src/mkt-measurement.c, src/mkt-measurement.h, src/mkt-model.c,
+	  src/mkt-model.h, src/mkt-param-object.c, src/mkt-param.c,
+	  src/mkt-param.h, src/mkt-sensor-data.c, src/mkt-sensor-model.c,
+	  src/mkt-sensor-model.h, src/mkt-sensor.c, src/mkt-sensor.h,
+	  src/mkt-statistic-model.c, src/mkt-statistic.c,
+	  src/mkt-stream-model.c, src/mkt-stream.c, src/mktlib.c,
+	  src/mktlib.h, src/unused/mkt-link-object.c,
+	  src/unused/mkt-link-object.h, src/unused/mkt-link.c,
+	  src/unused/mkt-link.h, src/unused/mkt-sensor-model.c,
+	  src/unused/mkt-sensor-model.h, src/unused/mkt-sensor.c,
+	  src/unused/mkt-sensor.h:
+
+2015-05-20 12:23  asmolkov
+
+	* [r13473] src/unused:
+
+2015-05-19 13:03  asmolkov
+
+	* [r13471] src/ultimate-messparm-object.c, src/ultimate-messparm.c:
+
+2015-05-19 10:20  asmolkov
+
+	* [r13468] src/mkt-cal-point-model.c, src/mkt-cal-point.c,
+	  src/mkt-cal-point.h: FIX : Calibration data models ..
+
+2015-05-19 09:46  asmolkov
+
+	* [r13467] src/mkt-cal-data-model.c, src/mkt-cal-data.c,
+	  src/mkt-cal-data.h, src/mkt-cal-model.c, src/mkt-cal-model.h,
+	  src/mkt-cal-point-model.c, src/mkt-cal-point.c,
+	  src/mkt-cal-point.h, src/mkt-cal.c, src/mkt-cal.h,
+	  src/mkt-calibration-model.c:
+
+2015-05-18 08:09  asmolkov
+
+	* [r13451] src/mkt-utils.c, src/mkt-utils.h, src/mkt-value.c:
+
+2015-05-13 14:07  asmolkov
+
+	* [r13435] src/mkt-calibration-model.c, src/mkt-calibration.c,
+	  src/ultimate-posparm-object.c, src/ultimate-posparm.c:
+
+2015-05-07 08:06  asmolkov
+
+	* [r13396] src/mkt-error.c, src/mkt-error.h: Create error function
+	  upgrade.
+
+2015-04-29 07:15  asmolkov
+
+	* [r13303] src/mkt-calibration.c:
+
+2015-04-28 15:05  asmolkov
+
+	* [r13298] src/mkt-cal-point.h, src/mkt-cal.c, src/mkt-cal.h:
+
+2015-04-28 12:37  asmolkov
+
+	* [r13294] src/mkt-cal-data-model.c, src/mkt-cal-data.c,
+	  src/mkt-cal-data.h, src/mkt-cal-point.c, src/mkt-cal-point.h,
+	  src/mkt-cal.c, src/mkt-cal.h, src/mkt-calibration-model.c,
+	  src/mkt-calibration-model.h, src/mkt-calibration.c,
+	  src/mkt-calibration.h, src/mkt-param-object.c: FIX:
+	  - Main calibration models
+	  - Save calibration data.
+	  - Parent calibration model.
+	  - Replace and copy calibrations points and data.
+
+2015-04-28 11:07  asmolkov
+
+	* [r13293] src/mkt-data.c, src/mkt-data.h, src/mkt-sensor-data.c:
+
+2015-04-17 07:53  asmolkov
+
+	* [r13182] src/mkt-utils.c, src/mkt-utils.h:
+
+2015-04-16 15:48  asmolkov
+
+	* [r13181] src/mkt-utils.c, src/mkt-utils.h:
+
+2015-04-14 10:06  asmolkov
+
+	* [r13172] src/Makefile.am, src/mkt-model.c,
+	  src/ultimate-posparm-object.c, src/ultimate-posparm.c:
+
+2015-04-07 12:30  asmolkov
+
+	* [r13125] src/ultimate-messparm-object.c, src/ultimate-messparm.c:
+
+2015-03-31 14:39  asmolkov
+
+	* [r13088] ChangeLog, src/mkt-vessel.c:
+
+2015-03-31 08:03  asmolkov
+
+	* [r13074] src/mkt-injection-model.c, src/mkt-injection-model.h,
+	  src/mkt-injection.c, src/mkt-injection.h, src/mktlib.c,
+	  src/mktlib.h:
+
+2015-03-31 07:29  asmolkov
+
+	* [r13061] src/Makefile.am:
+
+2015-03-30 15:32  asmolkov
+
+	* [r13056] src/Makefile.am, src/mktlib.h,
+	  src/ultimate-integration-object.c,
+	  src/ultimate-integration-object.h, src/ultimate-integration.c,
+	  src/ultimate-integration.h:
+
+2015-03-30 15:32  asmolkov
+
+	* [r13055] src/ultimate-posparm.c:
+
+2015-03-30 08:36  asmolkov
+
+	* [r13050] src/mkt-channel-model.c, src/mkt-channel.c:
+
+2015-03-27 12:42  asmolkov
+
+	* [r13047] src/mkt-channel-model.c, src/mkt-channel.c:
+
+2015-03-26 17:03  asmolkov
+
+	* [r13036] src/Makefile.am, src/mkt-cal-point-model.c,
+	  src/mkt-cal-point.c, src/mkt-channel-model.c, src/mkt-channel.c,
+	  src/mkt-channel.h:
+
+2015-03-26 15:36  asmolkov
+
+	* [r13035] src/mkt-cal-model.c, src/mkt-cal-point-model.c,
+	  src/mkt-cal-point.c, src/mkt-cal-point.h, src/mkt-cal.c,
+	  src/mkt-calibration-model.c, src/mkt-param-object.c:
+
+2015-03-26 13:13  asmolkov
+
+	* [r13033] src/Makefile.am, src/mkt-cal-data-model.c,
+	  src/mkt-cal-data-model.h, src/mkt-cal-data-object.c,
+	  src/mkt-cal-data-object.h, src/mkt-cal-model.c,
+	  src/mkt-cal-model.h, src/mkt-cal-object.c, src/mkt-cal-object.h,
+	  src/mkt-cal-point-model.c, src/mkt-cal-point-model.h,
+	  src/mkt-cal-point-object.c, src/mkt-cal-point-object.h,
+	  src/mkt-cal-point.c, src/mkt-cal-point.h, src/mkt-cal.c,
+	  src/mkt-cal.h, src/mkt-calibration-model.c,
+	  src/mkt-calibration-model.h, src/mkt-calibration-object.c,
+	  src/mkt-calibration-object.h, src/mkt-calibration.c,
+	  src/mkt-calibration.h, src/mkt-stream-model.c, src/mkt-stream.c,
+	  src/mkt-stream.h, src/mktlib.c, src/mktlib.h:
+
+2015-03-26 10:10  asmolkov
+
+	* [r13027] src/Makefile.am, src/mkt-analog-model.c,
+	  src/mkt-analog-model.h, src/mkt-analog-object.c,
+	  src/mkt-analog-object.h, src/mkt-analog.c, src/mkt-area-object.c,
+	  src/mkt-area-object.h, src/mkt-area.c, src/mkt-area.h,
+	  src/mkt-cal-data-object.h, src/mkt-calibration-object.c,
+	  src/mkt-category-model.c, src/mkt-category.c,
+	  src/mkt-channel-measurement.c, src/mkt-channel-measurement.h,
+	  src/mkt-channel-model.c, src/mkt-channel-model.h,
+	  src/mkt-channel.c, src/mkt-channel.h, src/mkt-sensor-model.c,
+	  src/mkt-sensor-model.h, src/mkt-sensor-object.c,
+	  src/mkt-sensor-object.h, src/mkt-statistic-model.c,
+	  src/mkt-statistic-model.h, src/mkt-statistic-object.c,
+	  src/mkt-statistic-object.h, src/mkt-stream-model.c,
+	  src/mkt-stream-model.h, src/mkt-stream-simple.c,
+	  src/mkt-stream-simple.h, src/mkt-stream.c, src/mktlib.c,
+	  src/mktlib.h:
+
+2015-03-25 16:14  asmolkov
+
+	* [r13022] src/mkt-category.c: Debug ausgaben gelöscht.
+
+2015-03-25 16:13  asmolkov
+
+	* [r13021] src/mkt-stream.c, src/ultimate-messparm-object.c,
+	  src/ultimate-messparm.c, src/ultimate-messparm.h:
+
+2015-03-25 16:05  asmolkov
+
+	* [r13018] src/ultimate-messparm-object.c: Fix Ultimate measurement
+	  parameter model.
+
+2015-03-25 15:33  asmolkov
+
+	* [r13013] src/Makefile.am, src/mkt-category-model.c,
+	  src/mkt-category-model.h, src/mktlib.c, src/mktlib.h:
+
+2015-03-25 15:32  asmolkov
+
+	* [r13012] src/mkt-category-model.c, src/mkt-category-model.h,
+	  src/mkt-category-object.c, src/mkt-category-object.h,
+	  src/mkt-category.c, src/mktlib.c:
+
+2015-03-25 14:50  asmolkov
+
+	* [r13009] src/mkt-category.h:
+
+2015-03-25 14:49  asmolkov
+
+	* [r13008] src/mkt-category-object.c, src/mkt-category.c:
+
+2015-03-25 14:38  asmolkov
+
+	* [r13007] src/mkt-param.c:
+
+2015-03-25 14:25  asmolkov
+
+	* [r13006] src/mkt-axis-model.c:
+
+2015-03-25 14:01  asmolkov
+
+	* [r13001] ChangeLog, src/mkt-channel.c:
+
+2015-03-25 13:58  asmolkov
+
+	* [r13000] src/mkt-channel-measurement.c, src/mkt-channel.c:
+
+2015-03-25 10:49  asmolkov
+
+	* [r12991] src/mkt-channel-measurement.c, src/mkt-channel.c,
+	  src/mkt-channel.h:
+
+2015-03-25 10:32  asmolkov
+
+	* [r12988] src/mkt-statistic-object.c, src/mkt-statistic.c,
+	  src/mkt-statistic.h, src/ultimate-messparm-object.c,
+	  src/ultimate-messparm.c:
+
+2015-03-25 09:16  asmolkov
+
+	* [r12982] src/mktlib.c:
+
+2015-03-25 09:15  asmolkov
+
+	* [r12981] src/Makefile.am, src/mktlib.h,
+	  src/ultimate-messparm-object.c, src/ultimate-messparm-object.h,
+	  src/ultimate-messparm.c, src/ultimate-messparm.h,
+	  src/ultimate-posparm-object.c, src/ultimate-posparm-object.h,
+	  src/ultimate-posparm.c, src/ultimate-posparm.h:
+
+2015-03-25 09:11  asmolkov
+
+	* [r12980] src/mkt-statistic-object.c, src/mkt-statistic.c,
+	  src/mktlib.h:
+
+2015-03-24 16:27  asmolkov
+
+	* [r12971] src/mkt-stream-simple.c, src/mkt-stream.c,
+	  src/mkt-stream.h:
+
+2015-03-24 15:56  asmolkov
+
+	* [r12970] ChangeLog, src/mkt-limit.c:
+
+2015-03-24 15:55  asmolkov
+
+	* [r12969] src/mkt-limit.c:
+
+2015-03-24 15:55  asmolkov
+
+	* [r12968] src/Makefile.am, src/mkt-category-object.c,
+	  src/mkt-category.c, src/mkt-category.h, src/mkt-limit.c,
+	  src/mkt-param-object.c, src/mkt-param.c, src/mkt-param.h,
+	  src/mkt-statistic-object.c, src/mkt-statistic.c:
+
+2015-03-24 15:38  asmolkov
+
+	* [r12967] src/Makefile.am, src/mkt-statistic-object.c,
+	  src/mkt-statistic.c, src/mkt-statistic.h,
+	  src/mkt-stream-simple.c:
+
+2015-03-24 15:10  asmolkov
+
+	* [r12965] src/mktlib.h:
+
+2015-03-24 15:09  asmolkov
+
+	* [r12964] src/Makefile.am:
+
+2015-03-24 15:09  asmolkov
+
+	* [r12963] src/mkt-category-object.c, src/mkt-category.c,
+	  src/mkt-statistic.c:
+
+2015-03-24 14:28  asmolkov
+
+	* [r12960] src/mktlib.h:
+
+2015-03-24 14:18  asmolkov
+
+	* [r12958] src/Makefile.am, src/mkt-category-object.c,
+	  src/mkt-category-object.h, src/mkt-category.c,
+	  src/mkt-category.h, src/mkt-sensor.h, src/mkt-stream.c:
+
+2015-03-24 14:18  asmolkov
+
+	* [r12957] src/mkt-statistic-object.c, src/mkt-statistic-object.h,
+	  src/mkt-statistic.c, src/mkt-statistic.h:
+
+2015-03-24 13:04  asmolkov
+
+	* [r12954] src/mkt-SQLite-connection.c:
+
+2015-03-24 10:48  asmolkov
+
+	* [r12952] src/Makefile.am, src/mkt-model.c, src/mkt-model.h,
+	  src/mkt-selection.c, src/mkt-selection.h:
+
+2015-03-19 14:53  asmolkov
+
+	* [r12946] src/mkt-error.c:
+
+2015-03-19 12:11  alist
+
+	* [r12945] ltmain.sh: ...
+
+2015-03-19 10:58  asmolkov
+
+	* [r12943] src/mkt-error.c, src/mkt-error.h:
+
+2015-03-19 10:02  asmolkov
+
+	* [r12940] src/Makefile.am, src/com.lar.base.gschema.xml:
+
+2015-03-18 16:47  asmolkov
+
+	* [r12927] src/mkt-error-message.c, src/mkt-error.c,
+	  src/mkt-error.h:
+
+2015-03-18 10:18  asmolkov
+
+	* [r12901] .:
+
+2015-03-18 10:15  asmolkov
+
+	* [r12899] ltmain.sh:
+
+2015-03-16 14:57  asmolkov
+
+	* [r12882] src/mkt-axis-model.c, src/mkt-error.c:
+
+2015-03-16 14:53  asmolkov
+
+	* [r12879] src/mkt-axis-model.c, src/mkt-axis.c, src/mkt-stream.c:
+
+2015-03-16 14:13  asmolkov
+
+	* [r12877] src/mkt-error.c:
+
+2015-03-16 14:03  asmolkov
+
+	* [r12876] src/mktlib.c:
+
+2015-03-16 14:00  asmolkov
+
+	* [r12869] src/mkt-axis-model.c, src/mkt-axis-model.h,
+	  src/mktlib.h:
+
+2015-03-16 13:51  asmolkov
+
+	* [r12867] src/mkt-axis.c, src/mkt-axis.h, src/mkt-vessel-model.c,
+	  src/mkt-vessel.c:
+
+2015-03-16 13:47  asmolkov
+
+	* [r12866] src/Makefile.am:
+
+2015-03-12 16:33  asmolkov
+
+	* [r12853] src/mkt-error.c:
+
+2015-03-11 07:23  asmolkov
+
+	* [r12798] src/mkt-vessel-model.h:
+
+2015-03-10 13:27  asmolkov
+
+	* [r12795] src/Makefile.am, src/mkt-vessel-model.c,
+	  src/mkt-vessel-model.h, src/mkt-vessel.c, src/mkt-vessel.h,
+	  src/mktlib.h:
+
+2015-03-09 16:47  asmolkov
+
+	* [r12783] src/mkt-relay.c: Fix: relay string parameter
+
+2015-03-09 16:21  asmolkov
+
+	* [r12781] src/Makefile.am:
+
+2015-03-09 16:14  asmolkov
+
+	* [r12780] src/Makefile.am, src/mktlib.h: Copy mkt-relay-model.h to
+	  mktlib header path.
+	  Add include <mkt-relay-model.h> to mktlib.h
+
+2015-03-09 16:11  asmolkov
+
+	* [r12779] src/Makefile.am, src/mkt-relay-model.c,
+	  src/mkt-relay-model.h, src/mkt-relay.c, src/mkt-relay.h: Add
+	  relay data model object
+
+2015-03-09 14:15  asmolkov
+
+	* [r12777] src/mkt-analog-object.c, src/mkt-analog.c,
+	  src/mkt-analog.h:
+
+2015-03-09 13:59  asmolkov
+
+	* [r12776] src/Makefile.am:
+
+2015-03-09 13:55  asmolkov
+
+	* [r12775] src/mkt-sensor-object.c:
+
+2015-03-09 13:52  asmolkov
+
+	* [r12774] src/mkt-analog-object.c, src/mkt-analog-object.h,
+	  src/mkt-analog.c, src/mkt-analog.h, src/mkt-param-object.c,
+	  src/mkt-param.c, src/mkt-param.h: FIX : Analog, Param
+	  ,ParamObject AnalogObject
+
+2015-03-05 08:28  asmolkov
+
+	* [r12731] src/mkt-model.c:
+
+2015-03-05 08:28  asmolkov
+
+	* [r12730] src/mkt-channel-measurement.c, src/mkt-channel.c,
+	  src/mkt-model.c:
+
+2015-03-04 16:55  asmolkov
+
+	* [r12728] src/mkt-channel-measurement.c, src/mkt-channel.c,
+	  src/mkt-channel.h: Fix: Data base model MktChannel ..
+
+2015-03-04 16:31  asmolkov
+
+	* [r12727] src/mkt-calibration-object.c, src/mkt-calibration.c,
+	  src/mkt-calibration.h:
+
+2015-03-04 16:28  asmolkov
+
+	* [r12726] src/mkt-channel-measurement.c, src/mkt-channel.c,
+	  src/mkt-channel.h:
+
+2015-03-03 10:57  asmolkov
+
+	* [r12712] src/mkt-channel-measurement.c, src/mkt-channel.c,
+	  src/mkt-channel.h:
+
+2015-02-24 11:21  asmolkov
+
+	* [r12639] src/mkt-error.c:
+
+2015-02-23 14:23  asmolkov
+
+	* [r12600] src/mkt-error.c:
+
+2015-02-18 09:48  asmolkov
+
+	* [r12576] src/mkt-sensor-object.c:
+
+2015-02-18 09:42  asmolkov
+
+	* [r12571] ., ltmain.sh, src/mkt-sensor-object.c:
+
+2015-02-12 16:23  asmolkov
+
+	* [r12543] src/mkt-utils.c:
+
+2015-02-11 15:29  asmolkov
+
+	* [r12528] Makefile.am, debian/libmktlib-2.0-doc.install.in:
+
+2015-02-11 11:48  asmolkov
+
+	* [r12523] src/mkt-sensor-object.c, src/mkt-sensor.c,
+	  src/mkt-sensor.h:
+
+2015-02-09 14:25  asmolkov
+
+	* [r12499] debian/control:
+
+2015-02-09 11:13  asmolkov
+
+	* [r12492] debian/files, debian/libmktlib-2.0-doc.substvars,
+	  debian/libmktlib-2.0.postinst.debhelper,
+	  debian/libmktlib-2.0.postrm.debhelper,
+	  debian/libmktlib-2.0.substvars:
+
+2015-02-09 11:11  asmolkov
+
+	* [r12491] debian/control:
+
+2015-02-09 11:10  asmolkov
+
+	* [r12490] ., INSTALL, Makefile.am, configure.ac, src,
+	  src/Makefile.am, src/mktlib-2.0.pc.in:
+
+2015-02-09 11:09  asmolkov
+
+	* [r12489] debian/control, debian/libmktlib-2.0-0.install.in,
+	  debian/libmktlib-2.0-0.postinst.in,
+	  debian/libmktlib-2.0-0.postrm.in,
+	  debian/libmktlib-2.0-bin.substvars, debian/libmktlib-2.0.install:
+
+2015-02-09 10:53  asmolkov
+
+	* [r12487] debian, debian/control, debian/files,
+	  debian/libmktlib-2.0-0.install,
+	  debian/libmktlib-2.0-bin.substvars,
+	  debian/libmktlib-2.0-dev.install,
+	  debian/libmktlib-2.0-dev.install.in,
+	  debian/libmktlib-2.0-doc.substvars,
+	  debian/libmktlib-2.0.install.in,
+	  debian/libmktlib-2.0.postinst.debhelper,
+	  debian/libmktlib-2.0.postinst.in,
+	  debian/libmktlib-2.0.postrm.debhelper,
+	  debian/libmktlib-2.0.postrm.in, debian/libmktlib-2.0.substvars,
+	  debian/rules:
+
+2015-02-06 16:00  asmolkov
+
+	* [r12476] debian/libmktlib-2.0-dev.install,
+	  debian/libmktlib-2.0-dev.postinst.in,
+	  debian/libmktlib-2.0-dev.postrm.in:
+
+2015-02-06 15:59  asmolkov
+
+	* [r12475] debian/changelog, debian/compat, debian/control,
+	  debian/copyright, debian/docs, debian/files:
+
+2015-02-06 15:56  asmolkov
+
+	* [r12474] debian/libmktlib-2.0-0.install,
+	  debian/libmktlib-2.0-0.postinst.in,
+	  debian/libmktlib-2.0-0.postrm.in:
+
+2015-02-06 15:47  asmolkov
+
+	* [r12473] debian/libmktlib-2.0-0.install.in,
+	  debian/libmktlib-2.0-dev.install.in,
+	  debian/libmktlib-2.0-doc.install.in:
+
+2015-02-06 09:36  asmolkov
+
+	* [r12460] debian/control, src/Makefile.am, src/mkt-cal-data.c,
+	  src/mkt-method-object.c, src/mkt-method-object.h,
+	  src/mkt-method.c, src/mkt-method.h, src/mkt-process-object.c,
+	  src/mkt-process-object.h, src/mkt-process.c, src/mkt-process.h,
+	  src/mkt-remote-digital-object.c, src/mkt-remote-digital-object.h,
+	  src/mkt-remote-digital.c, src/mkt-remote-digital.h,
+	  src/mkt-sensor-object.c, src/mkt-sensor.c, src/mkt-sensor.h,
+	  src/mkt-vessel-object.c, src/mkt-vessel-object.h,
+	  src/mkt-vessel.c, src/mkt-vessel.h, src/mktlib-2.0.pc.in,
+	  src/mktlib.pc.in:
+
+2015-02-06 07:49  asmolkov
+
+	* [r12452] src/Makefile.am, src/mkt-calibration.c:
+
+2015-02-05 16:47  asmolkov
+
+	* [r12450] configure.ac, src, src/Makefile.am,
+	  src/mkt-category-object.c, src/mkt-category-object.h,
+	  src/mkt-category.c, src/mkt-category.h,
+	  src/mkt-enum-types.c.template, src/mkt-enum-types.h.template,
+	  src/mkt-statistic-object.c, src/mkt-statistic-object.h,
+	  src/mkt-statistic.c, src/mkt-statistic.h:
+
+2015-02-05 12:53  asmolkov
+
+	* [r12437] configure.ac, src/Makefile.am, src/mkt-cal-point.c,
+	  src/mkt-calibration-object.c, src/mkt-calibration.c,
+	  src/mkt-calibration.h, src/mkt-category-object.c,
+	  src/mkt-category.c, src/mkt-category.h,
+	  src/mkt-channel-measurement.c, src/mkt-channel.c,
+	  src/mkt-channel.h, src/mkt-measurement-data.c,
+	  src/mkt-measurement.c, src/mkt-measurement.h,
+	  src/mkt-messparm-object.c, src/mkt-messparm-object.h,
+	  src/mkt-messparm.c, src/mkt-messparm.h,
+	  src/mkt-statistic-object.c, src/mkt-statistic.c,
+	  src/mkt-statistic.h, src/mkt-stream-simple.c,
+	  src/mkt-stream-simple.h, src/mkt-stream.c, src/mkt-stream.h,
+	  src/mkt-vtype-object.c, src/mkt-vtype-object.h, src/mkt-vtype.c,
+	  src/mkt-vtype.h, src/mktlib.c, src/mktlib.h:
+
+2015-02-03 16:39  asmolkov
+
+	* [r12411] src/mkt-utils.c, src/mkt-utils.h:
+
+2015-01-29 16:41  asmolkov
+
+	* [r12361] src/Makefile.am, src/mkt-calibration.c, src/mkt-data.c,
+	  src/mkt-data.h, src/mkt-sensor-data.c, src/mkt-sensor-imc.c,
+	  src/mkt-sensor-imc.h, src/mkt-sensor-object.c,
+	  src/mkt-sensor-object.h, src/mkt-sensor.c, src/mkt-sensor.h:
+
+2015-01-29 15:36  asmolkov
+
+	* [r12358] debian/control:
+
+2015-01-28 16:03  asmolkov
+
+	* [r12350] ., debian/changelog:
+
+2015-01-28 15:44  asmolkov
+
+	* [r12344] ChangeLog:
+
+2015-01-28 15:37  asmolkov
+
+	* [r12343] ChangeLog:
+
+2015-01-28 15:25  asmolkov
+
+	* [r12342] Makefile.am, debian/changelog:
+
+2015-01-28 14:47  asmolkov
+
+	* [r12338] ., ltmain.sh, po, src:
+
+2015-01-28 14:45  asmolkov
+
+	* [r12337] debian/changelog:
+
+2015-01-28 14:39  asmolkov
+
+	* [r12336] Makefile.in, aclocal.m4, autom4te.cache, compile,
+	  config.guess, config.guess.dh-orig, config.h.in, config.sub,
+	  config.sub.dh-orig, configure, depcomp, install-sh, ltmain.sh,
+	  m4macros, missing, po/Makefile.in, src/Makefile.in:
+
+2015-01-28 12:11  asmolkov
+
+	* [r12327] ., autom4te.cache/requests:
+
+2015-01-28 12:10  asmolkov
+
+	* [r12326] config.sub.dh-orig:
+
+2015-01-28 12:09  asmolkov
+
+	* [r12325] config.guess.dh-orig:
+
+2015-01-28 11:58  asmolkov
+
+	* [r12323] autom4te.cache/requests, po/Makefile.in,
+	  src/Makefile.am, src/Makefile.in, src/com.lar.base.gschema.xml:
+
+2015-01-27 17:11  asmolkov
+
+	* [r12311] debian/postinst, debian/postinst.ex:
+
+2015-01-27 16:48  asmolkov
+
+	* [r12310] debian/files:
+
+2015-01-27 15:51  asmolkov
+
+	* [r12308] po, po/Makefile.in:
+
+2015-01-27 15:37  asmolkov
+
+	* [r12307] ., autom4te.cache/requests, src/Makefile.am,
+	  src/Makefile.in, src/com.lar.base.gschema.xml:
+
+2015-01-27 13:35  asmolkov
+
+	* [r12295] debian/changelog:
+
+2015-01-27 13:35  asmolkov
+
+	* [r12294] autom4te.cache, autom4te.cache/output.0,
+	  autom4te.cache/output.1, autom4te.cache/output.2,
+	  autom4te.cache/requests, autom4te.cache/traces.0,
+	  autom4te.cache/traces.1, autom4te.cache/traces.2:
+
+2015-01-27 13:17  asmolkov
+
+	* [r12291] configure:
+
+2015-01-27 13:11  asmolkov
+
+	* [r12289] debian/changelog, src:
+
+2015-01-27 12:47  asmolkov
+
+	* [r12283] configure.ac, debian/changelog:
+
+2015-01-23 12:40  asmolkov
+
+	* [r12214] ., Makefile.in, aclocal.m4:
+
+2015-01-23 12:34  asmolkov
+
+	* [r12213] ., compile, config.guess, config.h.in, config.sub,
+	  configure, depcomp, install-sh, ltmain.sh, m4macros,
+	  m4macros/libtool.m4, m4macros/ltoptions.m4, m4macros/ltsugar.m4,
+	  m4macros/ltversion.m4, m4macros/lt~obsolete.m4, missing, src,
+	  src/Makefile.in:
+
+2015-01-23 12:17  asmolkov
+
+	* [r12208] ChangeLog, Makefile.am, configure.ac, res:
+
+2015-01-23 12:14  asmolkov
+
+	* [r12206] res/schema/com.lar.base.gschema.xml, src/Makefile.am,
+	  src/com.lar.base.gschema.xml:
+
+2015-01-23 09:24  asmolkov
+
+	* [r12185] debian/control:
+
+2015-01-22 14:20  asmolkov
+
+	* [r12178] debian/control:
+
+2015-01-22 13:19  asmolkov
+
+	* [r12172] debian/control:
+
+2015-01-22 13:08  asmolkov
+
+	* [r12171] debian/control:
+
+2015-01-22 13:02  asmolkov
+
+	* [r12170] debian/control:
+
+2015-01-22 12:59  asmolkov
+
+	* [r12169] debian/control:
+
+2015-01-22 12:16  asmolkov
+
+	* [r12168] configure.ac:
+
+2015-01-22 12:16  asmolkov
+
+	* [r12167] configure.ac:
+
+2015-01-21 14:04  asmolkov
+
+	* [r12147] ChangeLog, configure.ac:
+
+2015-01-19 16:31  asmolkov
+
+	* [r12090] configure.ac, src/Makefile.am:
+
+2015-01-19 13:23  asmolkov
+
+	* [r12067] configure.ac, debian/files, debian/postinst.ex,
+	  src/mktlib.pc.in:
+
+2015-01-19 10:55  asmolkov
+
+	* [r12054] configure.ac, debian, debian/files:
+
+2015-01-19 10:44  asmolkov
+
+	* [r12053] .:
+
+2015-01-19 10:42  asmolkov
+
+	* [r12052] configure.ac, src/Makefile.am,
+	  src/market-statemachine.h:
+
+2015-01-19 10:42  asmolkov
+
+	* [r12051] debian/mktlib:
+
+2015-01-19 10:38  asmolkov
+
+	* [r12050] debian/mktlib, debian/mktlib/DEBIAN,
+	  debian/mktlib/DEBIAN/control, debian/mktlib/DEBIAN/md5sums,
+	  debian/mktlib/DEBIAN/postinst, debian/mktlib/DEBIAN/postrm,
+	  debian/mktlib/DEBIAN/shlibs, debian/mktlib/usr,
+	  debian/mktlib/usr/doc, debian/mktlib/usr/doc/mkt,
+	  debian/mktlib/usr/doc/mkt/AUTHORS,
+	  debian/mktlib/usr/doc/mkt/COPYING,
+	  debian/mktlib/usr/doc/mkt/ChangeLog,
+	  debian/mktlib/usr/doc/mkt/INSTALL,
+	  debian/mktlib/usr/doc/mkt/NEWS, debian/mktlib/usr/doc/mkt/README,
+	  debian/mktlib/usr/include, debian/mktlib/usr/include/mktlib,
+	  debian/mktlib/usr/include/mktlib/market-time.h,
+	  debian/mktlib/usr/include/mktlib/mkt-SQLite-connection.h,
+	  debian/mktlib/usr/include/mktlib/mkt-analog-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-analog.h,
+	  debian/mktlib/usr/include/mktlib/mkt-area-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-area.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-data-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-data.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-point-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-point.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal.h,
+	  debian/mktlib/usr/include/mktlib/mkt-calibration-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-calibration.h,
+	  debian/mktlib/usr/include/mktlib/mkt-category-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-category.h,
+	  debian/mktlib/usr/include/mktlib/mkt-channel-measurement.h,
+	  debian/mktlib/usr/include/mktlib/mkt-channel.h,
+	  debian/mktlib/usr/include/mktlib/mkt-connection.h,
+	  debian/mktlib/usr/include/mktlib/mkt-data-column.h,
+	  debian/mktlib/usr/include/mktlib/mkt-data-model.h,
+	  debian/mktlib/usr/include/mktlib/mkt-data.h,
+	  debian/mktlib/usr/include/mktlib/mkt-decl.h,
+	  debian/mktlib/usr/include/mktlib/mkt-error-message.h,
+	  debian/mktlib/usr/include/mktlib/mkt-error.h,
+	  debian/mktlib/usr/include/mktlib/mkt-item-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-item.h,
+	  debian/mktlib/usr/include/mktlib/mkt-limit-message.h,
+	  debian/mktlib/usr/include/mktlib/mkt-limit.h,
+	  debian/mktlib/usr/include/mktlib/mkt-link-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-link.h,
+	  debian/mktlib/usr/include/mktlib/mkt-log-message.h,
+	  debian/mktlib/usr/include/mktlib/mkt-log.h,
+	  debian/mktlib/usr/include/mktlib/mkt-measurement-data.h,
+	  debian/mktlib/usr/include/mktlib/mkt-measurement.h,
+	  debian/mktlib/usr/include/mktlib/mkt-messparm-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-messparm.h,
+	  debian/mktlib/usr/include/mktlib/mkt-method-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-method.h,
+	  debian/mktlib/usr/include/mktlib/mkt-model.h,
+	  debian/mktlib/usr/include/mktlib/mkt-module.h,
+	  debian/mktlib/usr/include/mktlib/mkt-mutex.h,
+	  debian/mktlib/usr/include/mktlib/mkt-param-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-param.h,
+	  debian/mktlib/usr/include/mktlib/mkt-parcer-apache.h,
+	  debian/mktlib/usr/include/mktlib/mkt-process-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-process.h,
+	  debian/mktlib/usr/include/mktlib/mkt-remote-digital-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-remote-digital.h,
+	  debian/mktlib/usr/include/mktlib/mkt-sensor-data.h,
+	  debian/mktlib/usr/include/mktlib/mkt-sensor-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-sensor.h,
+	  debian/mktlib/usr/include/mktlib/mkt-sql-parser.h,
+	  debian/mktlib/usr/include/mktlib/mkt-statistic-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-statistic.h,
+	  debian/mktlib/usr/include/mktlib/mkt-stream-simple.h,
+	  debian/mktlib/usr/include/mktlib/mkt-stream.h,
+	  debian/mktlib/usr/include/mktlib/mkt-utils.h,
+	  debian/mktlib/usr/include/mktlib/mkt-value.h,
+	  debian/mktlib/usr/include/mktlib/mkt-vessel-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-vessel.h,
+	  debian/mktlib/usr/include/mktlib/mkt-vtype-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-vtype.h,
+	  debian/mktlib/usr/include/mktlib/mktlib.h, debian/mktlib/usr/lib,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/libmktlib.la,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/libmktlib.so,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/libmktlib.so.0,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/libmktlib.so.0.105.0,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/pkgconfig,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/pkgconfig/mktlib.pc,
+	  debian/mktlib/usr/share, debian/mktlib/usr/share/doc,
+	  debian/mktlib/usr/share/doc/mktlib,
+	  debian/mktlib/usr/share/doc/mktlib/README,
+	  debian/mktlib/usr/share/doc/mktlib/README.Debian,
+	  debian/mktlib/usr/share/doc/mktlib/changelog.gz,
+	  debian/mktlib/usr/share/doc/mktlib/copyright,
+	  debian/mktlib/usr/share/glib-2.0,
+	  debian/mktlib/usr/share/glib-2.0/schemas,
+	  debian/mktlib/usr/share/glib-2.0/schemas/com.lar.base.gschema.xml:
+
+2015-01-19 10:35  asmolkov
+
+	* [r12049] debian/mktlib, debian/mktlib-dev,
+	  debian/mktlib-dev.dirs, debian/mktlib-dev.install,
+	  debian/mktlib.cron.d.ex, debian/mktlib.default.ex,
+	  debian/mktlib.doc-base.EX, debian/mktlib.postinst.debhelper,
+	  debian/mktlib.postrm.debhelper, debian/mktlib.substvars,
+	  debian/mktlib1.dirs, debian/mktlib1.install:
+
+2015-01-19 10:30  asmolkov
+
+	* [r12048] ., po, res, res/schema:
+
+2015-01-19 10:16  asmolkov
+
+	* [r12047] debian, debian/README, debian/README.Debian,
+	  debian/README.source, debian/changelog, debian/compat,
+	  debian/control, debian/copyright, debian/docs, debian/files,
+	  debian/init.d.ex, debian/manpage.1.ex, debian/manpage.sgml.ex,
+	  debian/manpage.xml.ex, debian/menu.ex, debian/mktlib,
+	  debian/mktlib-dev, debian/mktlib-dev.dirs,
+	  debian/mktlib-dev.install, debian/mktlib-dev/usr,
+	  debian/mktlib-dev/usr/include,
+	  debian/mktlib-dev/usr/include/mktlib,
+	  debian/mktlib-dev/usr/include/mktlib/market-time.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-SQLite-connection.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-analog-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-analog.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-area-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-area.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-atom.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-cal-data-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-cal-data.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-cal-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-cal-point-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-cal-point.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-cal.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-calibration-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-calibration.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-category-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-category.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-channel-measurement.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-channel.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-collector.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-connection.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-data-column.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-data-model.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-data.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-decl.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-error-message.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-error.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-item-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-item.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-limit-message.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-limit.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-link-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-link.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-log-message.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-log.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-measurement-data.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-measurement.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-messparm-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-messparm.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-method-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-method.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-model.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-module.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-mutex.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-param-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-param.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-parcer-apache.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-process-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-process.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-remote-digital-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-remote-digital.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-sensor-data.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-sensor-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-sensor.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-sql-parser.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-statistic-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-statistic.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-stream-simple.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-stream.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-utils.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-value.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-vessel-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-vessel.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-vtype-object.h,
+	  debian/mktlib-dev/usr/include/mktlib/mkt-vtype.h,
+	  debian/mktlib-dev/usr/include/mktlib/mktlib.h,
+	  debian/mktlib-dev/usr/lib, debian/mktlib.cron.d.ex,
+	  debian/mktlib.default.ex, debian/mktlib.doc-base.EX,
+	  debian/mktlib.postinst.debhelper, debian/mktlib.postrm.debhelper,
+	  debian/mktlib.substvars, debian/mktlib/DEBIAN,
+	  debian/mktlib/DEBIAN/control, debian/mktlib/DEBIAN/md5sums,
+	  debian/mktlib/DEBIAN/postinst, debian/mktlib/DEBIAN/postrm,
+	  debian/mktlib/DEBIAN/shlibs, debian/mktlib/usr,
+	  debian/mktlib/usr/doc, debian/mktlib/usr/doc/mkt,
+	  debian/mktlib/usr/doc/mkt/AUTHORS,
+	  debian/mktlib/usr/doc/mkt/COPYING,
+	  debian/mktlib/usr/doc/mkt/ChangeLog,
+	  debian/mktlib/usr/doc/mkt/INSTALL,
+	  debian/mktlib/usr/doc/mkt/NEWS, debian/mktlib/usr/doc/mkt/README,
+	  debian/mktlib/usr/include, debian/mktlib/usr/include/mktlib,
+	  debian/mktlib/usr/include/mktlib/market-time.h,
+	  debian/mktlib/usr/include/mktlib/mkt-SQLite-connection.h,
+	  debian/mktlib/usr/include/mktlib/mkt-analog-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-analog.h,
+	  debian/mktlib/usr/include/mktlib/mkt-area-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-area.h,
+	  debian/mktlib/usr/include/mktlib/mkt-atom.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-data-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-data.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-point-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal-point.h,
+	  debian/mktlib/usr/include/mktlib/mkt-cal.h,
+	  debian/mktlib/usr/include/mktlib/mkt-calibration-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-calibration.h,
+	  debian/mktlib/usr/include/mktlib/mkt-category-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-category.h,
+	  debian/mktlib/usr/include/mktlib/mkt-channel-measurement.h,
+	  debian/mktlib/usr/include/mktlib/mkt-channel.h,
+	  debian/mktlib/usr/include/mktlib/mkt-collector.h,
+	  debian/mktlib/usr/include/mktlib/mkt-connection.h,
+	  debian/mktlib/usr/include/mktlib/mkt-data-column.h,
+	  debian/mktlib/usr/include/mktlib/mkt-data-model.h,
+	  debian/mktlib/usr/include/mktlib/mkt-data.h,
+	  debian/mktlib/usr/include/mktlib/mkt-decl.h,
+	  debian/mktlib/usr/include/mktlib/mkt-error-message.h,
+	  debian/mktlib/usr/include/mktlib/mkt-error.h,
+	  debian/mktlib/usr/include/mktlib/mkt-item-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-item.h,
+	  debian/mktlib/usr/include/mktlib/mkt-limit-message.h,
+	  debian/mktlib/usr/include/mktlib/mkt-limit.h,
+	  debian/mktlib/usr/include/mktlib/mkt-link-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-link.h,
+	  debian/mktlib/usr/include/mktlib/mkt-log-message.h,
+	  debian/mktlib/usr/include/mktlib/mkt-log.h,
+	  debian/mktlib/usr/include/mktlib/mkt-measurement-data.h,
+	  debian/mktlib/usr/include/mktlib/mkt-measurement.h,
+	  debian/mktlib/usr/include/mktlib/mkt-messparm-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-messparm.h,
+	  debian/mktlib/usr/include/mktlib/mkt-method-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-method.h,
+	  debian/mktlib/usr/include/mktlib/mkt-model.h,
+	  debian/mktlib/usr/include/mktlib/mkt-module.h,
+	  debian/mktlib/usr/include/mktlib/mkt-mutex.h,
+	  debian/mktlib/usr/include/mktlib/mkt-param-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-param.h,
+	  debian/mktlib/usr/include/mktlib/mkt-parcer-apache.h,
+	  debian/mktlib/usr/include/mktlib/mkt-process-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-process.h,
+	  debian/mktlib/usr/include/mktlib/mkt-remote-digital-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-remote-digital.h,
+	  debian/mktlib/usr/include/mktlib/mkt-sensor-data.h,
+	  debian/mktlib/usr/include/mktlib/mkt-sensor-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-sensor.h,
+	  debian/mktlib/usr/include/mktlib/mkt-sql-parser.h,
+	  debian/mktlib/usr/include/mktlib/mkt-statistic-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-statistic.h,
+	  debian/mktlib/usr/include/mktlib/mkt-stream-simple.h,
+	  debian/mktlib/usr/include/mktlib/mkt-stream.h,
+	  debian/mktlib/usr/include/mktlib/mkt-utils.h,
+	  debian/mktlib/usr/include/mktlib/mkt-value.h,
+	  debian/mktlib/usr/include/mktlib/mkt-vessel-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-vessel.h,
+	  debian/mktlib/usr/include/mktlib/mkt-vtype-object.h,
+	  debian/mktlib/usr/include/mktlib/mkt-vtype.h,
+	  debian/mktlib/usr/include/mktlib/mktlib.h, debian/mktlib/usr/lib,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/libmktlib.la,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/libmktlib.so,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/libmktlib.so.0,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/libmktlib.so.0.105.0,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/pkgconfig,
+	  debian/mktlib/usr/lib/x86_64-linux-gnu/pkgconfig/mktlib.pc,
+	  debian/mktlib/usr/share, debian/mktlib/usr/share/doc,
+	  debian/mktlib/usr/share/doc/mktlib,
+	  debian/mktlib/usr/share/doc/mktlib/README,
+	  debian/mktlib/usr/share/doc/mktlib/README.Debian,
+	  debian/mktlib/usr/share/doc/mktlib/changelog.gz,
+	  debian/mktlib/usr/share/doc/mktlib/copyright,
+	  debian/mktlib/usr/share/glib-2.0,
+	  debian/mktlib/usr/share/glib-2.0/schemas,
+	  debian/mktlib/usr/share/glib-2.0/schemas/com.lar.base.gschema.xml,
+	  debian/mktlib1.dirs, debian/mktlib1.install, debian/postinst.ex,
+	  debian/postrm.ex, debian/preinst.ex, debian/prerm.ex,
+	  debian/rules, debian/shlibs.local.ex, debian/source,
+	  debian/source/format, debian/watch.ex:
+
+2015-01-19 10:15  asmolkov
+
+	* [r12046] src, src/Makefile.am, src/mkt-application.c,
+	  src/mkt-application.h, src/mkt-atom.c, src/mkt-atom.h,
+	  src/mkt-collector.c, src/mkt-collector.h, src/mkt-connection.c,
+	  src/mkt-connection.h, src/mkt-device-application.c,
+	  src/mkt-device-application.h, src/mkt-model.c, src/mktlib.h:
+
+2015-01-19 09:58  asmolkov
+
+	* [r12045] autogen.sh:
+
+2015-01-19 09:55  asmolkov
+
+	* [r12044] AUTHORS, COPYING, ChangeLog, INSTALL, Makefile.am, NEWS,
+	  README, configure.ac, po, po/ChangeLog, po/LINGUAS,
+	  po/Makefile.in.in, po/POTFILES.in, res, res/Makefile.am,
+	  res/schema, res/schema/Makefile.am,
+	  res/schema/com.lar.base.gschema.xml, src, src/Makefile.am,
+	  src/market-time.c, src/market-time.h,
+	  src/mkt-SQLite-connection.c, src/mkt-SQLite-connection.h,
+	  src/mkt-analog-object.c, src/mkt-analog-object.h,
+	  src/mkt-analog.c, src/mkt-analog.h, src/mkt-application.c,
+	  src/mkt-application.h, src/mkt-area-object.c,
+	  src/mkt-area-object.h, src/mkt-area.c, src/mkt-area.h,
+	  src/mkt-atom.c, src/mkt-atom.h, src/mkt-cal-data-object.c,
+	  src/mkt-cal-data-object.h, src/mkt-cal-data.c,
+	  src/mkt-cal-data.h, src/mkt-cal-object.c, src/mkt-cal-object.h,
+	  src/mkt-cal-point-object.c, src/mkt-cal-point-object.h,
+	  src/mkt-cal-point.c, src/mkt-cal-point.h, src/mkt-cal.c,
+	  src/mkt-cal.h, src/mkt-calibration-object.c,
+	  src/mkt-calibration-object.h, src/mkt-calibration.c,
+	  src/mkt-calibration.h, src/mkt-category-object.c,
+	  src/mkt-category-object.h, src/mkt-category.c,
+	  src/mkt-category.h, src/mkt-channel-measurement.c,
+	  src/mkt-channel-measurement.h, src/mkt-channel.c,
+	  src/mkt-channel.h, src/mkt-collector.c, src/mkt-collector.h,
+	  src/mkt-connection.c, src/mkt-connection.h,
+	  src/mkt-data-column.c, src/mkt-data-column.h,
+	  src/mkt-data-model.c, src/mkt-data-model.h, src/mkt-data.c,
+	  src/mkt-data.h, src/mkt-decl.h, src/mkt-device-application.c,
+	  src/mkt-device-application.h, src/mkt-error-message.c,
+	  src/mkt-error-message.h, src/mkt-error.c, src/mkt-error.h,
+	  src/mkt-item-object.c, src/mkt-item-object.h, src/mkt-item.c,
+	  src/mkt-item.h, src/mkt-limit-message.c, src/mkt-limit-message.h,
+	  src/mkt-limit.c, src/mkt-limit.h, src/mkt-link-object.c,
+	  src/mkt-link-object.h, src/mkt-link.c, src/mkt-link.h,
+	  src/mkt-log-message.c, src/mkt-log-message.h, src/mkt-log.c,
+	  src/mkt-log.h, src/mkt-measurement-data.c,
+	  src/mkt-measurement-data.h, src/mkt-measurement.c,
+	  src/mkt-measurement.h, src/mkt-messparm-object.c,
+	  src/mkt-messparm-object.h, src/mkt-messparm.c,
+	  src/mkt-messparm.h, src/mkt-method-object.c,
+	  src/mkt-method-object.h, src/mkt-method.c, src/mkt-method.h,
+	  src/mkt-model.c, src/mkt-model.h, src/mkt-module.c,
+	  src/mkt-module.h, src/mkt-mutex.c, src/mkt-mutex.h,
+	  src/mkt-param-object.c, src/mkt-param-object.h, src/mkt-param.c,
+	  src/mkt-param.h, src/mkt-parcer-apache.c,
+	  src/mkt-parcer-apache.h, src/mkt-process-object.c,
+	  src/mkt-process-object.h, src/mkt-process.c, src/mkt-process.h,
+	  src/mkt-remote-digital-object.c, src/mkt-remote-digital-object.h,
+	  src/mkt-remote-digital.c, src/mkt-remote-digital.h,
+	  src/mkt-sensor-data.c, src/mkt-sensor-data.h,
+	  src/mkt-sensor-imc.c, src/mkt-sensor-imc.h,
+	  src/mkt-sensor-object.c, src/mkt-sensor-object.h,
+	  src/mkt-sensor.c, src/mkt-sensor.h, src/mkt-sql-parser.c,
+	  src/mkt-sql-parser.h, src/mkt-statistic-object.c,
+	  src/mkt-statistic-object.h, src/mkt-statistic.c,
+	  src/mkt-statistic.h, src/mkt-stream-simple.c,
+	  src/mkt-stream-simple.h, src/mkt-stream.c, src/mkt-stream.h,
+	  src/mkt-utils.c, src/mkt-utils.h, src/mkt-value.c,
+	  src/mkt-value.h, src/mkt-vessel-object.c,
+	  src/mkt-vessel-object.h, src/mkt-vessel.c, src/mkt-vessel.h,
+	  src/mkt-vtype-object.c, src/mkt-vtype-object.h, src/mkt-vtype.c,
+	  src/mkt-vtype.h, src/mktlib.c, src/mktlib.h, src/mktlib.pc.in:
+
+2015-01-19 09:52  asmolkov
+
+	* [r12043] .:
+
